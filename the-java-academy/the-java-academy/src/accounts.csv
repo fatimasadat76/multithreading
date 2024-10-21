@@ -1,0 +1,1001 @@
+id,record_Number,account_number,account_type,account_limit,account_open_date,account_balance
+01JAQ4GD3RA62K7E7W6EAMMAE2,1,3a70f43ab73aa6e34e8a6426c539e2db8d6e0563,credit,Account under review for suspicious activity,12/18/2023,1500.7
+01JAQ4GD3SSYNZAEA38NKQM2BS,2,5f44d8ead53f1b0c34df1eab2fd32b4459591d08,checking,Account under review for suspicious activity,3/25/2024,3006.27
+01JAQ4GD3TVMRS42YS32WRTNV5,3,a862b2eee574e329fc4297d47b61904906883e9d,savings,Account exceeded transaction limit,7/29/2024,5533.18
+01JAQ4GD3TW1YQY17DNNPS9319,4,da18fa977afe35df7299e924352699747935fa3d,credit,Account under review for suspicious activity,4/15/2024,1459.12
+01JAQ4GD3VX7ZZN69C2WXP06NF,5,cc9966e919a26de1bfbbdf35b0e2cefd6974f2c3,savings,Account temporarily restricted due to security concerns,2/11/2024,6460.38
+01JAQ4GD3VMDZH0VZ6BMNRSMS7,6,674bb3aa4866a967b77577074299e5f0316a6fc8,investment,Account temporarily restricted due to security concerns,10/13/2024,6919.39
+01JAQ4GD3WGEZCA8J7HW8NXM9A,7,0e4c30b75f20f2a573a18e08e885917c4221ce3f,savings,Account temporarily restricted due to security concerns,2/10/2024,2968.92
+01JAQ4GD3WN1V3C9DSMZZK65Y7,8,627099bc71d4d7229c9744e4e2a7818bab701a20,checking,Account exceeded transaction limit,8/5/2024,6660.56
+01JAQ4GD3XZR0GKME7CDWKAE1V,9,4639e6b06d52bc19b64e034aefcb6490ab91c452,investment,Account exceeded transaction limit,12/25/2023,7241.9
+01JAQ4GD3XH3WNEADMR4ESJY4Y,10,b14736d7f1e2ff5132c29bf1277c7e2c61c83f2c,credit,Account under review for suspicious activity,12/13/2023,4024.61
+01JAQ4GD3YAYBSARR0YS6W8568,11,afaa68e9f9287f57eeb157eccc7ffbb00d25a3d4,savings,Account exceeded transaction limit,1/21/2024,4158.72
+01JAQ4GD4AX6TGBMJEMTGNFPX7,12,d5278ed6a3e54600e14e06e3b1faa6c8a371a619,investment,Account under review for suspicious activity,10/5/2024,6620.03
+01JAQ4GD4BXS9Y7THMFQ4C6KJ9,13,59d0c30001c6d42b5cb4a19075f13877dd745830,savings,Account temporarily restricted due to security concerns,4/24/2024,348.39
+01JAQ4GD4CK4KGVX6KG3CS54PG,14,eb902d5cd8dabc4c3ac028b7f2d7ec4a6cc7bd30,investment,Account temporarily restricted due to security concerns,11/11/2023,9315.06
+01JAQ4GD4CXM56MZ9Q7A9YC82E,15,f1a43e7d96ee8c59e5e7c97212a912949b556f63,savings,Account exceeded transaction limit,3/23/2024,6969.19
+01JAQ4GD4DAD6TN0SDXT2V3301,16,930affbb64fd3cc285df29715e6eb38fc83dd16d,credit,Account under review for suspicious activity,8/28/2024,1714.85
+01JAQ4GD4DP1NBZ8WJQQPBJKYJ,17,2ce79811e95c80adf31d2a19e3834ab438bdc52b,credit,Account under review for suspicious activity,12/18/2023,9675.93
+01JAQ4GD4EZ60Z149YS1ZS4V3N,18,dcc809ef0898dc1c0593066b488535819bb79b8e,investment,Account exceeded transaction limit,1/15/2024,4270.85
+01JAQ4GD4FW08GY11W27812KHW,19,4a030cd0c3aa647ffc098e7459b858dadcf39159,savings,Account temporarily restricted due to security concerns,3/18/2024,8713.2
+01JAQ4GD4FYME9687FQH7VRD3F,20,f1b26feebd06f546bdd8cf1ebd5358b395843179,investment,Account temporarily restricted due to security concerns,9/8/2024,4175.99
+01JAQ4GD4GK5ZTP5WRJ586RYPH,21,87e7c3caefd4bfc64e99b42683baa9f94356ca59,savings,Account under review for suspicious activity,12/29/2023,7133.93
+01JAQ4GD4HVVSTBXENS07N2H1H,22,db6183f8dc6664bf8dc32ca8a1737336fedee8cb,savings,Account under review for suspicious activity,4/14/2024,9581.38
+01JAQ4GD4H0GGMWACDZG8DZECJ,23,20daf6c3411bcec4d5044c7a5860f5a4eae63648,credit,Account temporarily restricted due to security concerns,7/9/2024,8217.02
+01JAQ4GD4JKRV566HWW5THPP4F,24,3478be0afb08ac0095697c4f348c065cbe6fbdad,savings,Account exceeded transaction limit,2/24/2024,7259.87
+01JAQ4GD4JGPZW2FETJBJWCR0B,25,361ffc09087cc0ee9438ff0f333681e787addc96,checking,Account temporarily restricted due to security concerns,1/4/2024,7437.4
+01JAQ4GD4KH8B0JNM0EHP4QE8N,26,7b1fc2985fac89807924ee2295f2b3ececaeea31,checking,Account under review for suspicious activity,12/15/2023,5600.65
+01JAQ4GD4M7GWP6BG5BD2AEDFH,27,a4fce8ca7c315c6c2ad1b157aed2f00385fcd17e,credit,Account under review for suspicious activity,4/24/2024,8785.6
+01JAQ4GD4M4P8606N7T27VGFQA,28,5ca8f88716ce13e70d2381af05beaf15a6036f97,savings,Account exceeded transaction limit,4/24/2024,2350.16
+01JAQ4GD4NR44Z55BKFHXXQW23,29,538194ea9f2b74c9b23c30ff3f695c5859a3c9f1,investment,Account under review for suspicious activity,9/9/2024,5542.68
+01JAQ4GD4P5SVXXYSCA69MQ8QH,30,940b2de5d94a3f3f3dcba38e6020bd20a9e7404e,investment,Account exceeded transaction limit,2/7/2024,9077.29
+01JAQ4GD4PXYP8TCX6V06FMJCQ,31,f1826a610f8bb1f1d4df80b4cdc55d4a9ec181cd,investment,Account under review for suspicious activity,12/19/2023,3796.21
+01JAQ4GD4QTEHH75KHA6JD3YCS,32,47ef96205becc85961923cf8f06b9386af42aaca,investment,Account exceeded transaction limit,10/18/2024,2183.09
+01JAQ4GD4QX55KGRT12E0HHWT4,33,4b5dfc55bbc244d938d1bd1ae986e33bb7ae0dae,investment,Account temporarily restricted due to security concerns,7/4/2024,7893.16
+01JAQ4GD4R9F5GF9XHC3PDVSVG,34,695a515c699fcd745a2e5354cbc74fa64509ecb4,investment,Account temporarily restricted due to security concerns,5/14/2024,9354.13
+01JAQ4GD4SXM8NCFAJJDZMHTVX,35,ea794c5a2ad6578eb7b8abd0851657b8205cdc51,credit,Account exceeded transaction limit,6/30/2024,237.26
+01JAQ4GD4SYPXJR1E0CG9PEYRE,36,f988018dd5fd2f8f7176314087bcb558ba6a907e,credit,Account under review for suspicious activity,6/8/2024,3596.64
+01JAQ4GD4T0KEFKPSC8E7BK494,37,ad2ca8c2a89f5faf582059a52c9a1ff93e68e576,checking,Account under review for suspicious activity,5/8/2024,2838.37
+01JAQ4GD4VRGS5K97TQGB6KSWP,38,ba1ed5dd9017bda717ec766594975aee511aacbd,checking,Account under review for suspicious activity,9/24/2024,6513.92
+01JAQ4GD4W7ABT8X87NQTZKJTP,39,d66cf2e8088379a13f905f976584876d489b7706,credit,Account temporarily restricted due to security concerns,4/13/2024,8783.24
+01JAQ4GD4XA3F4S87Y2KRYQAMB,40,3c9e0b799c8a4b76a5b2ad30910c8ccd02c0cf60,investment,Account under review for suspicious activity,12/9/2023,111.51
+01JAQ4GD4XJRVZCC1P627AY0CT,41,dfca9f24f3aa7f3e6eb7df6bbc603da0759c03e3,investment,Account under review for suspicious activity,3/4/2024,7.05
+01JAQ4GD4YPPVZS42XNCDMQ5NX,42,528fdffe2ea049f65bdea41f83842c2b89a5be88,savings,Account under review for suspicious activity,6/17/2024,7048.96
+01JAQ4GD50JZQAD9771C8PTZRZ,43,4c6e55b2ecdaf0457af2738627130d84a34bb6ed,credit,Account temporarily restricted due to security concerns,2/12/2024,455.25
+01JAQ4GD50MYSRZ93S333CYFGX,44,cd7370dc922d72f6dad2b8a06accd99c1a9ba6ef,checking,Account under review for suspicious activity,12/16/2023,2207.6
+01JAQ4GD51QKD5H4W8BET55SSH,45,cc70b8fa3ac36d76a5303de8d1169f027351955e,investment,Account exceeded transaction limit,6/27/2024,7982.03
+01JAQ4GD523YEZVTDH35A8CNYG,46,cd84ac0400a25e624559414a04384b3e5cde3673,checking,Account temporarily restricted due to security concerns,9/10/2024,9000.38
+01JAQ4GD52V4BFNSXGAGPM1HYJ,47,21620dd39546a44dbbe7369c64cb15765e282302,investment,Account under review for suspicious activity,3/8/2024,9761.95
+01JAQ4GD53F4Z7Q0YW3CWF3FES,48,33ecad31895360d5ffe5d01095a4d7df9ba68fb4,checking,Account temporarily restricted due to security concerns,11/5/2023,8702.75
+01JAQ4GD530NB5MNAJS3AE6V3R,49,06217826d5b7027550ca8546d95562a4c088c794,credit,Account under review for suspicious activity,7/30/2024,4982.95
+01JAQ4GD54Z4W17PW1CHJYAMCG,50,1ef32ac6b828af689bfe85f06c9ff93af211c1cc,checking,Account exceeded transaction limit,3/17/2024,9225.03
+01JAQ4GD55XHNY78TGN48VNDBA,51,3f0295f9c8b8539b7954693a065aeb4963066b08,savings,Account exceeded transaction limit,6/29/2024,8716.71
+01JAQ4GD55ER2XT22DJBGJGWK3,52,2e73eadf12856b7fa7077c9b380ee40d1217c0b7,checking,Account exceeded transaction limit,4/9/2024,1058.43
+01JAQ4GD56BBXMRZJ0J85NZQ5X,53,69869b325f8aee2ad23460e71f113c700c42a087,savings,Account exceeded transaction limit,6/8/2024,6683.79
+01JAQ4GD56AFV3PGXG2K5SGNP0,54,7720272a15427971ec3ae27f61f93b5221c7eab1,investment,Account under review for suspicious activity,3/14/2024,9584.03
+01JAQ4GD57NRJS1RS1J6PAYS9V,55,f6fe5c4dbbc461eb560b86f37672bb3735e23357,credit,Account under review for suspicious activity,2/16/2024,3159.47
+01JAQ4GD58PJA29BJ9FEH7KKXC,56,5cb0ed51fc763fd276b8031e8dfcb0c540ee8975,savings,Account temporarily restricted due to security concerns,10/27/2023,479.25
+01JAQ4GD58CZ3DCBMMHV5SBAWD,57,d32f5e99c302d3f05d92cebacbfed87053b812f4,checking,Account under review for suspicious activity,2/25/2024,3363.29
+01JAQ4GD59HWRATKXH8HCS91YY,58,df37dc9eaa173a92d7dd3dae4985f7c986e6f002,investment,Account under review for suspicious activity,3/9/2024,3181.24
+01JAQ4GD5A6SV74BFR80VFN3BY,59,951da18bc1d44af3087233a0345f0ff194dbf0c2,checking,Account temporarily restricted due to security concerns,5/8/2024,9651.74
+01JAQ4GD5A0Q88Z9PWT49YQMB9,60,2ec44d7332a4877af787c6448f2afdde0be4233c,credit,Account under review for suspicious activity,12/24/2023,2836.7
+01JAQ4GD5BT5HCZQAQM87ZRF5Z,61,4e56b279412f3dbc3de4fdee9bd48f8adf75fc93,investment,Account under review for suspicious activity,5/25/2024,681.32
+01JAQ4GD5CJAJ4DKFTTAYD5T4B,62,a91048df0c1c72143ce62e03b58009ec0a1abf87,investment,Account under review for suspicious activity,1/6/2024,5851.17
+01JAQ4GD5CEVXVHH0X21R3H2S0,63,1723727e980f5b8632d2466504defbb63c07d659,investment,Account under review for suspicious activity,12/30/2023,9473.82
+01JAQ4GD5E68N49BBZQNR0CCZB,64,e51e3dcbac15aa7f13c057f32903cb5ed51eebee,savings,Account under review for suspicious activity,10/11/2024,167.19
+01JAQ4GD5EC58SPVDZ1TVJTT0K,65,938001f9aae9eb19d4b5b6f8b0b366244c9e1c7f,credit,Account exceeded transaction limit,5/14/2024,7381.52
+01JAQ4GD5FCWT574CJWZ1S3J42,66,c9899eec76b9e2cecb18777446c531e88dffa851,savings,Account exceeded transaction limit,10/17/2024,8539.16
+01JAQ4GD5GCJWB1Z6C5M9BYSAD,67,c364421f825a013757b85c09a7e581ac25d86830,savings,Account under review for suspicious activity,9/2/2024,8859.5
+01JAQ4GD5GSGE5XJ4SBB3BFT69,68,8977fbbf8d771e5279607cc0fd4b2afe48be5b6c,savings,Account exceeded transaction limit,8/27/2024,9747.95
+01JAQ4GD5HZ6DWC6PJ5QMBJB7M,69,42b1c92d5f6a56399e129ec8f143cae132df26c5,checking,Account under review for suspicious activity,8/21/2024,5674.59
+01JAQ4GD5JVSDS9VG8B3276RB0,70,4df123ffc299e95ba6ec7ab92b7384df0057945f,investment,Account under review for suspicious activity,2/27/2024,3069.41
+01JAQ4GD5JV5Z15WCZAV39G1AV,71,22b5cb8a7339fed1549b58ed6a16be2b11e4883b,savings,Account temporarily restricted due to security concerns,3/4/2024,2736.63
+01JAQ4GD5KS2CREHKSYFAEFH00,72,a2d2286fbb9f1d7be2b783d2f1ffa6bd7fdaabe4,savings,Account exceeded transaction limit,5/2/2024,3775.69
+01JAQ4GD5MTTNHC8HTSR9Z2NQ7,73,7ae3c99bab2bbe7e26f793d10a16c18d233651d7,checking,Account temporarily restricted due to security concerns,3/28/2024,8427.28
+01JAQ4GD5MTWPTD7MTBCHN9YMZ,74,b4bad5d5d2fe6e579359154827276121332730ea,checking,Account under review for suspicious activity,8/27/2024,5988.09
+01JAQ4GD5N3XQ6JP7JGKKYRJ2F,75,dc9c5ad6dea3bb6db958060bc4244f86d707bb8e,checking,Account temporarily restricted due to security concerns,4/29/2024,9299.89
+01JAQ4GD5P5CXVJW9J3EJ62M93,76,c303e87a88432978b55c557030f1b85c3e706302,checking,Account under review for suspicious activity,5/4/2024,6363.35
+01JAQ4GD5PYN9PX7MT00N9F9P6,77,6fde2adf6d0318521988d408e41f35aff7378469,credit,Account under review for suspicious activity,11/9/2023,5231.96
+01JAQ4GD5Q34ZF0P0B1XKBHE4J,78,cd699daa08cb4e6684c82d446fc85a3cc2be5dd6,savings,Account under review for suspicious activity,2/9/2024,3661.52
+01JAQ4GD5Q7RC24169MYJB8MNC,79,c134dd9390d62413d07a9e4a0ed0d71d4047ee87,savings,Account under review for suspicious activity,4/20/2024,5173.22
+01JAQ4GD5RQH6R30BW0E49CNAY,80,743fbfbb3ca1b68cdfc8a8f9bb3be88237ae10a2,credit,Account exceeded transaction limit,12/29/2023,1297.9
+01JAQ4GD5S306T79DFHPYWQS1W,81,f260e041cf4d9fc32a76dcb5e3745ab6bf405063,checking,Account under review for suspicious activity,9/20/2024,477.58
+01JAQ4GD5S7YXYK3YM3DCFK86A,82,d74b4e3a3a272b2968d9d87c784ee680173b6be0,investment,Account temporarily restricted due to security concerns,8/6/2024,7262.38
+01JAQ4GD5TSCJGH07JFBXQTM3V,83,96200ce8649dbc228923e752b8c1e981358afe4d,credit,Account under review for suspicious activity,8/26/2024,3156.86
+01JAQ4GD5T488PS9EW3QP961R0,84,ccf7f869796e4572e3d279d3434f27e534b2d2ee,investment,Account temporarily restricted due to security concerns,2/19/2024,1207.97
+01JAQ4GD5V1PX4F09SE2SR5HT3,85,b2429ca9d6adbfe6da8e98eb014149d7584ee0d3,investment,Account temporarily restricted due to security concerns,5/29/2024,8174.51
+01JAQ4GD5WJR3S8AFG7TKD10VY,86,3f8f0643f6d694d04234597f19e22b684858fdff,credit,Account exceeded transaction limit,9/25/2024,6743.2
+01JAQ4GD5WZBWSPE1JZTH7F98M,87,45fac62316ba0f29f4d38edf51f9dd94db941309,savings,Account under review for suspicious activity,3/30/2024,134.22
+01JAQ4GD5X3F36CS5VK8Q9K47Z,88,bc510e68b92a8b9633beb3752a1fb8f02ef03b00,credit,Account under review for suspicious activity,11/16/2023,6545.38
+01JAQ4GD5Y9XNKEZM2WMC0M8RZ,89,64d2daa2fd9a7007588c717049e66ff43a4e7c1a,investment,Account temporarily restricted due to security concerns,2/4/2024,2512.33
+01JAQ4GD5ZR16HYEMG8M8JRJ9T,90,670b30c4b002290c13554615b300ea89c3f886b4,credit,Account under review for suspicious activity,3/9/2024,1566.93
+01JAQ4GD609PPGRJP8ETEPVG6V,91,577383888e0b62e279014829e86e985c36d2ac33,investment,Account exceeded transaction limit,1/25/2024,3739.74
+01JAQ4GD60RS6ENNCXK1R7YVT4,92,81c278877917612c22b1975a880f14ebd01db2a2,checking,Account under review for suspicious activity,12/22/2023,3395.16
+01JAQ4GD61QACDC752SG2HFDP3,93,9793f79daaae7cc3eac3d218a550df5ec29b74de,savings,Account under review for suspicious activity,7/4/2024,9902.69
+01JAQ4GD627BH2PWGNCV6M29K2,94,3fc1bfd245703aeaec1b6693245faaff152763ab,savings,Account exceeded transaction limit,1/26/2024,3701.86
+01JAQ4GD62RMD2WTVYAJT0P65S,95,f8250702861ca63c7bd1ebe3c10f7c57885f1f4b,savings,Account temporarily restricted due to security concerns,10/26/2023,5524.98
+01JAQ4GD63DXMECTSQ4SF211DE,96,495cf9e6dfbf7c7be71e02b578c853b0c1104298,credit,Account under review for suspicious activity,1/25/2024,2718.25
+01JAQ4GD63K0RF4940YW26TA5Q,97,78fca8284602e1dd65d587082738b15809fe5c57,investment,Account temporarily restricted due to security concerns,2/29/2024,2704.67
+01JAQ4GD64V8DTV8PBY3SCS1S9,98,b33cfa6feffc95c5f9696e0459195c92f893804f,credit,Account temporarily restricted due to security concerns,8/3/2024,4801.04
+01JAQ4GD6555QXTN0EY7FH81HS,99,4d3bb16be822ca1c99cea826bfba0434e0225b63,checking,Account under review for suspicious activity,4/21/2024,8893.8
+01JAQ4GD65AR89SHHB3EDRMYR3,100,3e8be1c227e68b0e14048aa4334564ef929c1748,checking,Account under review for suspicious activity,3/11/2024,1402.63
+01JAQ4GD662MJSTZ97YT54NRJN,101,a70f6794b0e66ff99209656f3cd54ec41acd25aa,credit,Account temporarily restricted due to security concerns,2/24/2024,3650.81
+01JAQ4GD67KM1SGM22N2YV59WS,102,3bd2617f3b7de03196e33ecd84e8f1af89d55897,checking,Account temporarily restricted due to security concerns,10/29/2023,2961.39
+01JAQ4GD67DG0KZP4HHEAYV3BW,103,32e1a775993d6d4735b661cb634e51dd05fb6a70,investment,Account under review for suspicious activity,2/27/2024,9360.73
+01JAQ4GD68274PT9AV5EB3B1BE,104,83b12bf223964d1d281863f02cb896f8e4b63bd5,investment,Account temporarily restricted due to security concerns,1/21/2024,8555.84
+01JAQ4GD6997SDEG1E1QGDQXTW,105,565f78e9b59d2824c4247c4046de22cc3664f2e2,checking,Account exceeded transaction limit,8/27/2024,9328.09
+01JAQ4GD69Z5WKYV4ZV89DDF8J,106,dab21c4d0f91aadcd4d1a538b16ca98e8ab33097,investment,Account temporarily restricted due to security concerns,4/26/2024,3318.84
+01JAQ4GD6AADZPPXJNJX59JE4A,107,266b77f5a47e2d50ddf38ecbe164ce782cfa0470,investment,Account under review for suspicious activity,12/19/2023,3773.87
+01JAQ4GD6AD6V00KXFWXQQ0AWX,108,46827dd6a13eeb38d2d26f2fe524522415d5aa5d,investment,Account exceeded transaction limit,10/3/2024,7888.43
+01JAQ4GD6BJQPDDSRYMWR4AGDN,109,2e13b4c5fd252b626efa89699025fafd80be02f3,investment,Account exceeded transaction limit,1/20/2024,4232.03
+01JAQ4GD6CRP7ZAW53WNWAJSK0,110,318ea7bc8c844783131b6099f1cf1cdc24673162,checking,Account under review for suspicious activity,6/30/2024,3915.66
+01JAQ4GD6CGTFE43T0AWG2M9EA,111,17b62f5c207ca1d4c1e1458e909aeb7c52cad7ef,credit,Account exceeded transaction limit,6/30/2024,9490.17
+01JAQ4GD6DYB34GHJPMZSAZR8W,112,73c43485b43f4680ace6be076ba9b4ac21469d62,credit,Account temporarily restricted due to security concerns,11/23/2023,7347.56
+01JAQ4GD6DC09X2EABKKBTWC6N,113,3da7fd816818e1614642486560dddd96da5cb7a2,credit,Account under review for suspicious activity,8/11/2024,1788.3
+01JAQ4GD6EQZNFCJE5NCT3KZWQ,114,8ff0eaf33aafc37b1867c07c276d0288819106bc,checking,Account under review for suspicious activity,5/16/2024,1456.92
+01JAQ4GD6FM3HM7QBBF9PK33MQ,115,ad37ffff87a978c0141424c85b0a2a35bb0d80d9,savings,Account temporarily restricted due to security concerns,9/11/2024,8009.61
+01JAQ4GD6F9VVB8PM2790603BY,116,3370b02b4f1ddfe21278b6b91e35692dd1301098,checking,Account under review for suspicious activity,1/8/2024,3718.2
+01JAQ4GD6G29RWTJAX0XE4M7N6,117,c12450d7e5075a17257b8fe09a8f20986c7033f3,credit,Account temporarily restricted due to security concerns,9/23/2024,2647.48
+01JAQ4GD6HKXJ9EMHA2WS48MTX,118,b1c22566bef3f8851051a5ba297756aa97f89b16,savings,Account temporarily restricted due to security concerns,3/14/2024,1022.19
+01JAQ4GD6HBGMK63DD6XNRZJRR,119,9fb385ae8531b05e92a80a3ecdcb4f9a48c6f688,checking,Account temporarily restricted due to security concerns,2/3/2024,7848.35
+01JAQ4GD6JCBTP7XJPPJT6GEZT,120,8e57c802b243aa0b1ae1cbae050043e5afd8dfda,credit,Account exceeded transaction limit,4/23/2024,1793.09
+01JAQ4GD6JT3HFYR1ZTS93KJ47,121,fcdaf2a3b8f8cf03df9b5b0bf6a78f98cb8e5f00,investment,Account exceeded transaction limit,4/5/2024,7949.44
+01JAQ4GD6K5XF4HYB07A4FYCRW,122,c204c57046c02145fd9a2485690d98e8d62f75cd,credit,Account exceeded transaction limit,10/12/2024,1265.05
+01JAQ4GD6MGCMNESB0FP4QP3TV,123,2b079c2ee0584bb12a5cc052b60eabb809847b13,savings,Account temporarily restricted due to security concerns,1/17/2024,9273.93
+01JAQ4GD6MVRRFW5DTZDR2Y3SF,124,11a95cd0af35fe481bd82dd80d4c2f164bc686cf,checking,Account under review for suspicious activity,7/2/2024,8255.66
+01JAQ4GD6NYDJAZ81ZAPD8G7NB,125,44342acc6e1e683dd5bcebd042e8d4c15069ed28,checking,Account exceeded transaction limit,5/1/2024,6738.81
+01JAQ4GD6N6083K59W3YY45X7W,126,05b6531c4594258a30e0d9c0fc018fa01554a26c,checking,Account exceeded transaction limit,10/7/2024,993.86
+01JAQ4GD6PCNN2Q2QASJ05MMFE,127,78aaffe38da848fb7fbff2fe6d99fa08d58a5930,savings,Account under review for suspicious activity,3/10/2024,9044.12
+01JAQ4GD6Q667J0NPGTGTP4JSG,128,c77eaaf6f699f460d2da366ffba3ff726dae566c,investment,Account exceeded transaction limit,11/28/2023,9553.1
+01JAQ4GD6Q399GKNQ27SKH6ZP3,129,7b8b90ed9002585163005cbb75fb2c045b979c20,credit,Account under review for suspicious activity,12/10/2023,4345.87
+01JAQ4GD6RSVJTRPSPWP5RK8J0,130,a3a7b566b1b2431ccec28e76858022678a9e6fd8,credit,Account exceeded transaction limit,8/24/2024,7019.66
+01JAQ4GD6SNP77EDNJFCW42DSP,131,6cfe7cd02ff924b3f2416cf15a2e5d44c3cda20a,checking,Account exceeded transaction limit,7/5/2024,8766.76
+01JAQ4GD6SN2KG126XRQ5GK1XT,132,efb017c4f9225c1a2244055e764338305a2968c8,investment,Account temporarily restricted due to security concerns,5/28/2024,7657.3
+01JAQ4GD6TZC2WNFDBQ65WN77B,133,926bd22046fe5f7c94798feec1671e25ed12fb18,credit,Account temporarily restricted due to security concerns,3/10/2024,9360.39
+01JAQ4GD6VBYK1HT67B6HPDYB5,134,62fe1da20f631b430ffdd30688eaf83695de3957,investment,Account temporarily restricted due to security concerns,1/21/2024,7621.35
+01JAQ4GD6V3E7DMWT1T4B46YS1,135,bf032dfbeee87da1b7452fb7fd3607f0eff0764b,credit,Account exceeded transaction limit,10/14/2024,3500.67
+01JAQ4GD6WFTZSMRZ021H2N9T8,136,ecf81fb87426f117cfb67f0349ded24fa90bf9ab,credit,Account exceeded transaction limit,12/30/2023,4315.43
+01JAQ4GD6X2XE0K29Y5Z9DSW69,137,2707d893c14fff297c8639a69370297b498fd8fe,savings,Account under review for suspicious activity,2/20/2024,6821.37
+01JAQ4GD6XAZQW680F3ZPKD3S3,138,634a5c6e33689fb57412ca4ce6b5f672697adf6f,credit,Account exceeded transaction limit,8/26/2024,4746.42
+01JAQ4GD6Y5KQ8JPVBN8TF62XW,139,27abf58b716bb46f9b9483d5caed528953d74074,credit,Account temporarily restricted due to security concerns,3/24/2024,9495.8
+01JAQ4GD6Z749YET6TA9RVW4YW,140,42a228bf1e858b694526af7b3479eaa00c392604,credit,Account exceeded transaction limit,4/2/2024,5697.26
+01JAQ4GD6Z1QGY4BQV5X2REBPC,141,74915e18f47c5a3492c1ea3d1a9614064c4499ab,investment,Account exceeded transaction limit,4/9/2024,4611.24
+01JAQ4GD70ZQTSNFTY3ZQGQ6H3,142,9fcbc5d4e035e71e69923f1c826dc91a7a37e9b1,savings,Account exceeded transaction limit,8/29/2024,7426.03
+01JAQ4GD7034CHHWDRQVATSJSV,143,82c65c5425de8633bdda30d52b41ea2e978bfde5,savings,Account exceeded transaction limit,8/31/2024,2434.59
+01JAQ4GD7199ZTCVENW9MYS7GV,144,6437ac1e4aced997ea1e646a5fa3614b64b1bb4e,credit,Account temporarily restricted due to security concerns,10/4/2024,6553.6
+01JAQ4GD727FXKRXCMCY5G5BVM,145,4ada7d2e5479ac4369c509e25c7e8615d9b30635,savings,Account temporarily restricted due to security concerns,5/22/2024,7965.43
+01JAQ4GD72F8TA5E8J502JAE38,146,656a6ce449327a6b80002e7f5abae42ed367e27d,savings,Account under review for suspicious activity,5/2/2024,3745.47
+01JAQ4GD739RPRJH7E3YSMW2W7,147,a32f53f50e12f6ddb35cb543ec21aa34e39ad236,savings,Account under review for suspicious activity,2/19/2024,160.01
+01JAQ4GD742EP9EYA65BPX0EFT,148,66cc29598e3dc16a029b56ad331170aa1d1a4787,checking,Account under review for suspicious activity,2/22/2024,1663.18
+01JAQ4GD758ZD6AEQ49CPVGG2K,149,4319fa59352fea1650ded9d7dae74aca86d088f4,savings,Account temporarily restricted due to security concerns,4/16/2024,4875.1
+01JAQ4GD76H0TT9MMA155DDM02,150,335c4e4cf25802ab197cbc0bc2f9b8449c553c39,investment,Account under review for suspicious activity,7/2/2024,7732.76
+01JAQ4GD765QNEMBCYTB90MV7Z,151,ad9b1c7ad544b0fbb81a14900ff2b0f234353f52,credit,Account exceeded transaction limit,5/1/2024,5327.25
+01JAQ4GD774SDPQHJZYGZ7QX67,152,a96c0dd6c2d128e0f1cc82cc81e773c68c8b12c9,credit,Account under review for suspicious activity,7/12/2024,2101.49
+01JAQ4GD77TK4TZD96T24WYCVP,153,9a59edc1a4ebd08d74f087ebf7a48786b564ea42,credit,Account under review for suspicious activity,10/22/2023,9960.29
+01JAQ4GD78NW0XSX9JNRGJJ91V,154,2912ebb2e171805a02a8e6ffa33d1e8a27095610,checking,Account exceeded transaction limit,7/6/2024,4342.12
+01JAQ4GD79W89ZJZ1C0Z6WR5JP,155,6d60c7305bbecacf9cb1e7c84ab80eb1a0878d3e,savings,Account under review for suspicious activity,4/17/2024,4174.34
+01JAQ4GD7AGTMJ6W6FZTHVARTJ,156,fa7bd5a12ae494fb7874a285819e8ac43abd0606,savings,Account temporarily restricted due to security concerns,8/5/2024,4589.06
+01JAQ4GD7A67X2QX7Z1JK3BC0G,157,0f747490d07b6c607912b3398c33b3e107e7f158,checking,Account exceeded transaction limit,2/27/2024,7501.77
+01JAQ4GD7BD3H2SVJSAN44Y0GJ,158,25a0d4edd62c5ff03d35fb26225a16af4ee09c06,savings,Account exceeded transaction limit,4/26/2024,6082.69
+01JAQ4GD7CNH12PVATZ9ME0EHM,159,578714eb8e66eebbc35fbc77e9dd6730d721e05e,savings,Account under review for suspicious activity,6/8/2024,8230.53
+01JAQ4GD7DVKQ7Q6N74YTAQH9Q,160,119abf9a1c13f5c9ba6d724457d8b75c05f0034e,checking,Account under review for suspicious activity,9/2/2024,1429.96
+01JAQ4GD7D0JMZG4KERHFA20KD,161,577061d3f78b38e65b858723651ddb74190907c4,checking,Account exceeded transaction limit,4/26/2024,1034.73
+01JAQ4GD7E1H7R89J5E42WYBFP,162,929442ec1eda08e17a0bf5a25cc22ead39879d98,investment,Account temporarily restricted due to security concerns,1/21/2024,6982.54
+01JAQ4GD7EA4C81C8GQWNZW2QB,163,ed60d0df57f1c8005b63c5042bd4c558ac8f4f97,savings,Account exceeded transaction limit,5/1/2024,3864.74
+01JAQ4GD7FR37YJHWEHSYN7R1S,164,bd179f9564f4a5bc360a19e4a71deb7c0b053d26,savings,Account temporarily restricted due to security concerns,10/28/2023,6930.47
+01JAQ4GD7GWWYQD4CB5D8P81M9,165,4714651b8e1501649a1f60da69fd99b8dd2d7cf0,checking,Account temporarily restricted due to security concerns,4/7/2024,6560.69
+01JAQ4GD7HART36CMMW32M1Z38,166,a2cb0257f00a6749798ff71a6e89e9892b7700f7,checking,Account under review for suspicious activity,4/6/2024,8893.26
+01JAQ4GD7H53K8ESSJJHQHJ6J1,167,f64c71abef5c9aac97443eb43ab7dbfd7cd48140,checking,Account exceeded transaction limit,1/17/2024,593.39
+01JAQ4GD7JK9SS6KC1J1JZDCWN,168,7bd72de28f339af8c578be074e6fc6ea0768b497,savings,Account under review for suspicious activity,6/23/2024,2049.05
+01JAQ4GD7KYVKQ0FR2QTTTY338,169,329ac5f4be06602416b229bf228b6f8391397b84,credit,Account exceeded transaction limit,8/18/2024,7335.11
+01JAQ4GD7KQPJV4PTZ10KYKHRA,170,a24ca38b38729feb0d27e3cf7980cb3396ffb94e,credit,Account temporarily restricted due to security concerns,7/15/2024,3701.03
+01JAQ4GD7MPV20F9J6PWB3TY5B,171,2d5bb83505c7ecf2850a72159d62482199028e0e,checking,Account temporarily restricted due to security concerns,11/14/2023,9154.26
+01JAQ4GD7NPR6VDZS11GNE6M4V,172,cc4d27e06ede140b51403ffb77ba998d23cc7c1c,credit,Account temporarily restricted due to security concerns,1/26/2024,3374.84
+01JAQ4GD7PT7F6PVQAXPJEZ9W3,173,434df720a483869401bc2378b88ed3f13e4454fc,checking,Account exceeded transaction limit,9/26/2024,9601.07
+01JAQ4GD7PDENBGK3QH47THA7T,174,2c8ea18c43e9914ae9140d89c9b9c4cfa42ea0f8,checking,Account under review for suspicious activity,7/25/2024,5562.04
+01JAQ4GD7QJN24CJYGQDGHG22Y,175,22bc6b7fbf33e733f7f74bb4636c4d485fe21832,credit,Account under review for suspicious activity,3/14/2024,6057.1
+01JAQ4GD7REK6HJ8NNA3X8M7FH,176,4ea82610d79170418a37d6e5dd120b4e7e5dda27,checking,Account under review for suspicious activity,10/10/2024,9516.89
+01JAQ4GD7RAWPCE8JFXH916PWZ,177,89c0c63d100c194ee49005cb3547c55d4a1fb685,savings,Account temporarily restricted due to security concerns,4/4/2024,715.08
+01JAQ4GD7S7CVSRQ2VRTT0YDYH,178,366c52ad05574918415803a65df01ceedd246905,savings,Account exceeded transaction limit,1/4/2024,5559.32
+01JAQ4GD7T1VZPDCPBFH9HB4HS,179,a114b55bf9c2ea1707be4af3d1021c1122b98332,credit,Account exceeded transaction limit,12/21/2023,3850.42
+01JAQ4GD7TSVV01V5QKXZPF32H,180,61ac137c7037a226787837a4062d3d7c9f3a6736,savings,Account under review for suspicious activity,5/28/2024,4459.0
+01JAQ4GD7VHBKM7ZRKYSD6FFCC,181,70b87cc840ab35ed1a76c847fe90d88e79ccf78e,savings,Account under review for suspicious activity,5/7/2024,5727.58
+01JAQ4GD7W6QC0D5RB23HZWJWC,182,a5af74bc2668cf3d4fda45570cc8874cf4aa2150,checking,Account exceeded transaction limit,8/24/2024,8993.61
+01JAQ4GD7W1DMH4YRECY72VZ12,183,a4dbd459325aa22a58c074e6ba0ab120e9aa60a5,credit,Account temporarily restricted due to security concerns,3/17/2024,130.32
+01JAQ4GD7XQANYSNNZ7FVQAPY0,184,c2139784476f23980cd2442a4c23ac25899463e1,credit,Account under review for suspicious activity,12/23/2023,5447.99
+01JAQ4GD7Y1YM6EH7GTA0XY7GA,185,51dc3f8fb40028be5ad996d2ab8d1c4d9ea601fb,checking,Account under review for suspicious activity,6/2/2024,6673.71
+01JAQ4GD7YY8SKJFH7YKHBT72Q,186,333c2c72fe5142c6dfceaaaed6f2a652609aa413,savings,Account temporarily restricted due to security concerns,10/30/2023,3708.89
+01JAQ4GD7ZD3K5MWDASYN2KZWX,187,eaac018b3d00b6bdf8ab954a0c8d03a27adf7230,checking,Account temporarily restricted due to security concerns,8/28/2024,790.56
+01JAQ4GD80DJ1ZJB6W84N5F60M,188,1f67b5254c4e918fa0ebe7aa0c6f8b6a866b8c31,checking,Account temporarily restricted due to security concerns,4/18/2024,8511.61
+01JAQ4GD80ZXBS0BX3RKK2TNH4,189,ba9b47d81060cd24f75d0434573669d044b6568a,credit,Account under review for suspicious activity,5/1/2024,9180.08
+01JAQ4GD82TSXQ34T3XWXV6Y26,190,bbdaab13d2f6be4d2e6f543c9c01782d47c99d6b,checking,Account temporarily restricted due to security concerns,2/13/2024,102.52
+01JAQ4GD83Z3ZN427408D3XN8B,191,f1264e9fa06bdb71b4dd033da4d9b6193e715f72,credit,Account under review for suspicious activity,8/25/2024,8334.37
+01JAQ4GD84Q78X9MH2KKRHG2FV,192,d457259dfa8e1c1870d6f37ded18310f04958de4,investment,Account exceeded transaction limit,9/23/2024,2714.8
+01JAQ4GD845GPGFT962AQTW241,193,2fe5d3ef4a88f02e373c5ae47056e441b266b31c,savings,Account exceeded transaction limit,8/30/2024,3524.3
+01JAQ4GD85ZS2G2NJNNREN87TJ,194,041168ea9db10ec755c5ce8481998eb4e92562c9,investment,Account under review for suspicious activity,1/27/2024,2612.13
+01JAQ4GD862E68MAPRCG05TYYK,195,0c7dbdde0135a415128e0da90e7fdd2c7264999e,checking,Account exceeded transaction limit,3/27/2024,8923.14
+01JAQ4GD86JNA8Q5N5P6QY49VW,196,95b8a724137b34d293314ee1c0e1257b4f8890e1,checking,Account exceeded transaction limit,11/4/2023,3951.6
+01JAQ4GD87KH6M8J9KMSTVB963,197,ec64ff075998bcf6100903361ddbf3ef9c9edc3d,checking,Account under review for suspicious activity,2/27/2024,50.59
+01JAQ4GD88CK75ZPZ31CWS5C6E,198,51d66942b339e15c41cc164f3ddb91046899383b,savings,Account temporarily restricted due to security concerns,8/11/2024,7399.1
+01JAQ4GD88RQ7SG80PDDRQGM6Q,199,ebb44f161af0100930600a64bb3b1fe6e79f8936,investment,Account under review for suspicious activity,10/2/2024,4491.8
+01JAQ4GD89PGFCVN7MWK5HZ8HQ,200,db0b25d96f02dacaf2a7ef35715919fe8922ddcd,savings,Account exceeded transaction limit,8/27/2024,1754.77
+01JAQ4GD8A1AFEEV1V8RSWX7B5,201,62e8869177beeb58b9b6c0d1a50e8101ba56f9c4,checking,Account under review for suspicious activity,10/1/2024,8139.05
+01JAQ4GD8AH5SQ52WVQ18Q0B4E,202,6723bfce50dd62ee1a548a55db7cdad3335f7bbc,checking,Account under review for suspicious activity,7/3/2024,6979.06
+01JAQ4GD8B9CBNZ44M8CBAGADM,203,737079e8aefb91b718b91f6d718dd7dbb45d8929,checking,Account exceeded transaction limit,5/17/2024,9129.98
+01JAQ4GD8CT1SB2PWBSCBXAHHC,204,788a4edecd30c902b15641f570996b6e7f6ff449,checking,Account exceeded transaction limit,10/19/2024,7173.08
+01JAQ4GD8D6WVS9TC1HAF8BB04,205,5aa0a6ba219629f078eb8731542ac241b75787cb,credit,Account exceeded transaction limit,11/25/2023,561.3
+01JAQ4GD8D0GKFCVMS1K58VTND,206,d7dc7118d04b64e101600f9daca88046c69bdecc,savings,Account temporarily restricted due to security concerns,3/20/2024,4451.5
+01JAQ4GD8EG4KBQ0FTAEKYXTJW,207,f9c53b556c7e6c4fcd8670c422f377645a7abbbc,savings,Account under review for suspicious activity,6/24/2024,6685.38
+01JAQ4GD8FAYYJ78RCA8JEZD2D,208,018fa095b5c0b1e837dd3766002ca2cc01a629c5,checking,Account temporarily restricted due to security concerns,3/11/2024,2882.99
+01JAQ4GD8FMWW206EGG15D10RC,209,ff2da7de586b7101168d103961200b1508994c7c,investment,Account exceeded transaction limit,7/18/2024,439.78
+01JAQ4GD8GXPS856TZ9H9J7TYH,210,89b584e51d7e30343be876b337365c3a08e6569a,savings,Account temporarily restricted due to security concerns,4/27/2024,9828.62
+01JAQ4GD8H8GD2E4TCGC0PB9WM,211,67faf35696f7b944c4c5e064983bce2a5b603c77,checking,Account temporarily restricted due to security concerns,6/8/2024,5895.02
+01JAQ4GD8HCVTG6K51FHDETP68,212,42871ce8bbf07cb9a8f528655e2354942dd3e3b1,credit,Account exceeded transaction limit,8/3/2024,1091.71
+01JAQ4GD8JCMPCMWGRN6PAXMNJ,213,182c48cb874c3deba3afd9b0a8587355a3bdb7c4,investment,Account exceeded transaction limit,5/2/2024,7874.29
+01JAQ4GD8KE94TNSVY3GD4AS9V,214,922e7d342af7f150f6dc0a8e25170712abcd3256,investment,Account under review for suspicious activity,6/7/2024,6578.58
+01JAQ4GD8KG65J3DA3WVVNZC6J,215,6574cb54c357bb758135445450701562a762d796,checking,Account under review for suspicious activity,9/27/2024,5370.6
+01JAQ4GD8M1RCYKM16SHMNH1QZ,216,91b4edbad12b80ce13365de1010283b0bc8d4e36,checking,Account temporarily restricted due to security concerns,6/17/2024,4734.9
+01JAQ4GD8N4243DXKYBJV533HE,217,e6d00fe60b263272359f5c7f625ec2b416ef2686,credit,Account exceeded transaction limit,7/5/2024,9987.3
+01JAQ4GD8PD8P0MA56H9715JJ3,218,bc4c8e373e346f09ccccb98a73065d258765677b,checking,Account temporarily restricted due to security concerns,5/6/2024,9106.13
+01JAQ4GD8PMQSRG696PGA4HNAS,219,43cd14c6128368ea7b7dcc74b5e093def91143c2,checking,Account temporarily restricted due to security concerns,9/29/2024,181.74
+01JAQ4GD8QK7Y710SBK0SP80B6,220,4e98aba10d0c0886eaa62d1a9e191bab9cee84d3,checking,Account exceeded transaction limit,9/4/2024,2615.57
+01JAQ4GD8RXMKSQDSH513AGX1N,221,c88fdc908d7baf56d0548662895e7428469dafc0,credit,Account under review for suspicious activity,1/27/2024,2862.38
+01JAQ4GD8RTF8S7K0P4BVD7ER7,222,9ac6ed2a35d43da258151b61769606d9e78315e3,checking,Account under review for suspicious activity,2/2/2024,2883.63
+01JAQ4GD8SF7V5R98SH6A6BA33,223,89313ad6f7e0805d2d3649f13a461b9e395049a4,credit,Account temporarily restricted due to security concerns,6/22/2024,6911.25
+01JAQ4GD8T3CS3TK1HR9PDPCFS,224,6c0abff48b4136e77c9fee395a347b70bbec42c5,investment,Account under review for suspicious activity,3/2/2024,4570.08
+01JAQ4GD8TNM5RE2R3A0RV8V6G,225,77aec8e71e2a4067e88b2ec5cf4f5f52889907a4,checking,Account exceeded transaction limit,9/8/2024,3990.98
+01JAQ4GD8VSS04GS8MNJA6D3F9,226,f0a8a534e518a38648987db186f281aca4131437,checking,Account under review for suspicious activity,5/24/2024,3167.44
+01JAQ4GD8WQ024PE412Y1HZ619,227,e8952e81a89089b230549db8389de65038837a82,credit,Account under review for suspicious activity,3/17/2024,2386.45
+01JAQ4GD8WWP53MVXVAE78G1VD,228,f71aac9bf0b0ced208d504dabc1a9e4532034174,savings,Account under review for suspicious activity,4/15/2024,813.52
+01JAQ4GD8XPSVASE96NJX13AE2,229,34c22b9fd0477fc201f774d4a342f99e533d524d,credit,Account temporarily restricted due to security concerns,2/23/2024,616.83
+01JAQ4GD8X30QNQ856RSHA89F7,230,bdca087c4d5ab0423152e2fa2c8e624b73eeaf3e,investment,Account under review for suspicious activity,3/1/2024,7868.51
+01JAQ4GD8YST2PKDP5HVA0K1GQ,231,0d0f88b107bce4cad3c48a97e7aecc591a446fff,credit,Account under review for suspicious activity,12/14/2023,7532.74
+01JAQ4GD8ZAXFJMBMRA6DK9K5N,232,9c27074b7d1bd30aab28189abf5a2f813a7eecb4,investment,Account under review for suspicious activity,4/21/2024,1573.2
+01JAQ4GD8Z6B9DC5JCCH8SP0YX,233,655facfac997f38f904b6d929ea5218b339df2ce,investment,Account exceeded transaction limit,8/4/2024,654.4
+01JAQ4GD90WYJZAJ1EMVMGWMK8,234,2d881348b7563899cfcf768b1e69816d9dbc3500,credit,Account under review for suspicious activity,6/26/2024,2522.01
+01JAQ4GD919Z9YR8B2SP4YJKJB,235,17bd9b9ba53ccabcc98873974d4aeafbde4d5e17,savings,Account temporarily restricted due to security concerns,1/25/2024,6524.31
+01JAQ4GD91ABPTJN7HTFKDG8J0,236,ea2f9d1279a45b8df43efe42186714d1156e6bf6,savings,Account exceeded transaction limit,8/19/2024,7002.78
+01JAQ4GD92R0PW86BCYXW5V2PJ,237,3bac24ab572b8cc3336cacc2ecfee51c0a565754,credit,Account under review for suspicious activity,9/1/2024,4709.51
+01JAQ4GD93SESSETY28NK21PYG,238,bdf42e87ddc716f6c77f4aa3dae5f08af55b2e74,investment,Account under review for suspicious activity,6/5/2024,860.58
+01JAQ4GD935V9N4XAPAQVR64XP,239,58eeabf66b4e25bdd1ff4be4d0378ea2e0927c02,credit,Account under review for suspicious activity,11/7/2023,3852.5
+01JAQ4GD94M4GEF832ZKQ2E77B,240,3c623e733ed08e2ee42d3f66a671f80662819e4d,credit,Account exceeded transaction limit,8/11/2024,3424.82
+01JAQ4GD95TXQEZS6Q94XW07HA,241,d2f0fc2121b4482974dbf93a79f6a41b0b1f2923,checking,Account exceeded transaction limit,8/1/2024,1498.31
+01JAQ4GD951XTZ4CKHPSG67SMP,242,df205d520f5c125df17164462fe6019248c96c1a,checking,Account exceeded transaction limit,10/17/2024,8967.45
+01JAQ4GD9649HQB6ARC9B8R20F,243,6e2e31ac1285a35db6e0b7171145c247fe62c05e,credit,Account under review for suspicious activity,11/27/2023,3938.25
+01JAQ4GD960S8QT5WWFCCNKFRA,244,6d0de5d613bd3121178cb08c0c03da1147f2854c,savings,Account exceeded transaction limit,12/31/2023,2595.22
+01JAQ4GD97MYVBQTXGK3H82FYJ,245,33c605d2f31252bbac256128f4f2dab1cfd6a5c7,checking,Account under review for suspicious activity,5/14/2024,4034.58
+01JAQ4GD98NSMX5AEDE0NEBXTC,246,cf4e476b6bbe45d9494dbcd6571af6759586e4fd,credit,Account temporarily restricted due to security concerns,1/9/2024,4864.57
+01JAQ4GD99EZ38R192JV2Z6RXP,247,e908759c490939cbb2abbf6a53b993bea63f57aa,checking,Account temporarily restricted due to security concerns,8/14/2024,1702.84
+01JAQ4GD9AFHWDMEGTMTY5W8YH,248,33892d6026af3d2ddf2a0f48cd5d6c6c406d207d,checking,Account temporarily restricted due to security concerns,9/28/2024,8650.1
+01JAQ4GD9AJ68RWV684AY8C76F,249,4c208b9361a6dffa92a28a467e23a8b9d051d5f9,savings,Account under review for suspicious activity,10/30/2023,7482.85
+01JAQ4GD9C6R1NMXCB5KWBMNVR,250,5ad743eac62fced61382e1523d4ffba04eb37c8a,checking,Account exceeded transaction limit,2/27/2024,5371.93
+01JAQ4GD9DNBWWYX04F7234PXC,251,2665bd125aa61da5b63b4e7f44cac172fbcfdfc3,investment,Account temporarily restricted due to security concerns,4/29/2024,156.88
+01JAQ4GD9EBDQ9BAERFY2F31BG,252,8a5e0679bc345f622584d8c38523e0ea10774a09,checking,Account temporarily restricted due to security concerns,4/6/2024,2722.29
+01JAQ4GD9F8EKFN268B4MZJJZB,253,caa903ad1777273d8cbb07910189c84ed792a152,savings,Account under review for suspicious activity,7/24/2024,5550.24
+01JAQ4GD9GNKH1A3C0FXVEHXP6,254,f8d4eb6185c9851f3bb54419e70daef6f1fee1e8,savings,Account temporarily restricted due to security concerns,7/21/2024,2299.14
+01JAQ4GD9GAN9F9FWMZ9KVX2GM,255,abced69511027567924bb18c1bcdbb14c2656683,checking,Account exceeded transaction limit,1/22/2024,6777.81
+01JAQ4GD9JMKTGB68Y3D3866XP,256,5aeaddb020e96ad58b9e1f3021e95ddfd1a17f08,checking,Account temporarily restricted due to security concerns,10/30/2023,2782.55
+01JAQ4GD9K3SNMAAW0CNRQV4QW,257,73b2ee517f25b3e3ebb79db588e1107a3eb97a0e,investment,Account exceeded transaction limit,5/5/2024,3972.03
+01JAQ4GD9M2WMJ8GC35QAZDFS5,258,b71138fc7efcd076c5650a5d6c12fc4d9d9bab72,investment,Account under review for suspicious activity,7/31/2024,8496.98
+01JAQ4GD9NG1K51TH3MM86ZANY,259,eb62d33c90f493b4a7894f8cadd6881b7f3c3230,checking,Account under review for suspicious activity,3/17/2024,315.11
+01JAQ4GD9NEMJPP4JKXKZMMWKR,260,787285d066c6fd7aac4d0ff41f8fe82de9a6a070,credit,Account exceeded transaction limit,3/19/2024,3466.19
+01JAQ4GD9P0ESEY7FVH2XZ3H9T,261,e2b4b9b67b334bb6f83544e46ace83e764309017,savings,Account temporarily restricted due to security concerns,8/30/2024,5567.62
+01JAQ4GD9P03MN47JYQRSG7TQ6,262,d469daa45b52e35a99887e87e51509e4f008542c,savings,Account exceeded transaction limit,9/16/2024,7787.91
+01JAQ4GD9QERRDJHBX61ZWAG3P,263,e7e00d171340e9e99620a8666f5e1d6b9b7ae1aa,investment,Account exceeded transaction limit,1/26/2024,8962.59
+01JAQ4GD9QVS9CYD2SX9F3JBXV,264,961d6677f123d7ef7f6623fce4f2c43b3c18406b,savings,Account temporarily restricted due to security concerns,7/31/2024,8581.98
+01JAQ4GD9R6P37Y9GM3KV9H4RV,265,4e048d978d5335f88bde7828170bb9de70331d87,investment,Account exceeded transaction limit,5/21/2024,9096.34
+01JAQ4GD9RP1XMD9BVXMSNKQFS,266,acc3d32ef866928d2d6e96268529dd3933da0ad6,investment,Account under review for suspicious activity,1/15/2024,3125.46
+01JAQ4GD9SJKWEP8VXZ35XDGBS,267,4253212c9d02326212de78c9348d26e827e8aa55,credit,Account temporarily restricted due to security concerns,1/17/2024,8440.11
+01JAQ4GD9TXT6NME088JJFB867,268,b743744aadc728d5f2f91172ae7c81775505d374,credit,Account under review for suspicious activity,2/27/2024,6896.03
+01JAQ4GD9TW9DKZNE23SV59TAD,269,fb2e7a09d59565bda72fdedee6f3628a4e7ac399,investment,Account temporarily restricted due to security concerns,1/23/2024,382.36
+01JAQ4GD9V2M9R5AEAPSNRHSHZ,270,55d6002ff06ff2c74e675d1eb1b128a139deb6a4,investment,Account under review for suspicious activity,5/22/2024,907.38
+01JAQ4GD9V1TMTHZA93C4GVW4A,271,0005149229cdd3809f21edb9ba23042b010fdbd8,savings,Account under review for suspicious activity,4/9/2024,8634.6
+01JAQ4GD9WD9CDD7Y36G3CX2KM,272,5b02b4903dc336168835cf9dbdc719f3b3dcbf77,investment,Account temporarily restricted due to security concerns,7/7/2024,9924.12
+01JAQ4GD9XB7T6MZFQCSES8HC7,273,741aa041acd5e84d71f94414fd24307b995e4bdb,savings,Account exceeded transaction limit,4/22/2024,3669.37
+01JAQ4GD9YGQQH4Z1FV4GBPMZX,274,badc2c79e94498c5b01266cd0d0e413eda7325d4,credit,Account under review for suspicious activity,3/15/2024,2467.7
+01JAQ4GD9ZRQESZ2QTNQP8G9FP,275,7ffd7e5f92d6dd267df70d69fdf265a4d5d3d650,credit,Account temporarily restricted due to security concerns,9/13/2024,1944.67
+01JAQ4GDA0PTPQB66XYJ5KNMVZ,276,9a7a5a5968e995bb1d5d810e33faadba19ee9f0f,savings,Account temporarily restricted due to security concerns,11/26/2023,4165.58
+01JAQ4GDA1T6A9CR03BEG8QN53,277,937df3fa9262d1548bd9d20763bd79959f6f5f5a,savings,Account temporarily restricted due to security concerns,2/11/2024,8404.97
+01JAQ4GDA1C30M72QBY8G452MT,278,4e45a0d7bf5ed03a129de391648a81ef2ee953db,savings,Account exceeded transaction limit,9/27/2024,4653.36
+01JAQ4GDA2HQJT6ZZGFWAJ2T89,279,60840a5d2e5ceb2c75e6fc9b15248231c5124157,savings,Account exceeded transaction limit,3/25/2024,8194.48
+01JAQ4GDA2J1HC50P4281TRKXD,280,b70360a06bbf3f45b266aa75d654f0d54b42bd10,savings,Account under review for suspicious activity,2/25/2024,9637.01
+01JAQ4GDA3679HP45Y43TRPMHQ,281,8467029409f055500baca64062f1c6381053ee65,checking,Account exceeded transaction limit,2/10/2024,8560.59
+01JAQ4GDA3E1K72CCPV10NTFM3,282,5d3d3895e1344ad24e3fdcf6078216fa805ab1b4,savings,Account exceeded transaction limit,4/23/2024,3502.21
+01JAQ4GDA5JCJ9MWJG6VAHA2NV,283,7fa7059eceb824dc6241fb66282588ec1974cf96,investment,Account under review for suspicious activity,4/30/2024,9698.66
+01JAQ4GDA57H7FH6J0KW3PQPM8,284,19459308eece314e91a12700a1ee6412827fbc50,savings,Account temporarily restricted due to security concerns,3/6/2024,2571.69
+01JAQ4GDA63TKFR1B1NTERD5DS,285,c139b3f4d293166bf5e3c5d98cd226bc0e7307d8,savings,Account under review for suspicious activity,1/16/2024,9776.93
+01JAQ4GDA6W2FY184HQQMRWTDT,286,16903170a9ad20188bf10ab5edc5f93fdb076dc7,credit,Account exceeded transaction limit,2/10/2024,8738.17
+01JAQ4GDA7CWM3BXXF7PD9WHY2,287,d117602570c8b385fe93e1edf5a005efaf78e1cc,savings,Account exceeded transaction limit,1/28/2024,9904.87
+01JAQ4GDA7ZDKCMCECTPZ5PG0F,288,aa5328b7dd266111659339a9cd8eb75d5f3090a5,checking,Account under review for suspicious activity,6/29/2024,5021.29
+01JAQ4GDA92BWJNW1FHCMG664J,289,03a1146b9767faf911dc8647e5033c039e02be11,investment,Account exceeded transaction limit,8/6/2024,5510.16
+01JAQ4GDA9YMA2P51TSJKEP66M,290,790204fa79599639c6646df3ed335353e7495af5,credit,Account under review for suspicious activity,1/8/2024,2988.66
+01JAQ4GDAAMW9NSFD4KRQW4GCJ,291,01e1275290945dd0dc798bbcad2702973a7f7db7,credit,Account exceeded transaction limit,4/16/2024,2303.34
+01JAQ4GDAAGKTHJ57QTGTG687M,292,5614301d7d82d21edafbb51bb48198b2f87a93bb,investment,Account under review for suspicious activity,4/15/2024,7170.46
+01JAQ4GDABST5105ECB006E7HM,293,72ecb45792d213dcd08185172f58fdba3e8f74da,checking,Account temporarily restricted due to security concerns,12/17/2023,1181.41
+01JAQ4GDABDQ303NXEBR7ZE2GP,294,d985fff730afdf855d15bfac461003f54710bfdc,credit,Account exceeded transaction limit,11/5/2023,6318.22
+01JAQ4GDACHA8F48H546G0GE4E,295,273d5d738d028c88e1a9292bd861cfa1749ca112,checking,Account temporarily restricted due to security concerns,5/8/2024,6455.58
+01JAQ4GDADGAFX93MC3D80XYRW,296,eae8d614f49e488fec5c0434705bb2e67fc90f8a,credit,Account under review for suspicious activity,6/25/2024,2243.2
+01JAQ4GDADX9V26Y3SYJ1A3GMG,297,1cdcb52690ac67e4c21cabe7d4b7860f04347d19,credit,Account under review for suspicious activity,11/29/2023,7734.14
+01JAQ4GDAEKFEV4Z1NQB225AW2,298,f3f027f1bd3dabcbc4d2008253ec4b93d849f029,checking,Account temporarily restricted due to security concerns,8/22/2024,4581.25
+01JAQ4GDAFJTBHE4SHAMP5N381,299,1dee66c473b518008e46dcfbf1a34b1a7f7804a6,checking,Account under review for suspicious activity,6/13/2024,9554.66
+01JAQ4GDAFWDAJATWXZQ4BEVPV,300,4198314a497958245d3469026785b964e3cfb3f9,credit,Account temporarily restricted due to security concerns,6/11/2024,2019.09
+01JAQ4GDAG46T22FME358PSFWR,301,df86b50e6d8b0942d303d7ac02e714749dbb653e,investment,Account under review for suspicious activity,10/22/2023,2327.49
+01JAQ4GDAHQF5SV5WQVKVD2E7M,302,dae63bbaee66961ab6b1ef3c8a40a0557b6ba5fd,checking,Account exceeded transaction limit,3/28/2024,66.37
+01JAQ4GDAJECD4DTKW9GNXJAGZ,303,d26ce4a765e58c87201ba7f3a600e5e306531971,checking,Account exceeded transaction limit,6/29/2024,7741.69
+01JAQ4GDAJ4DVBNHBJCE9ACSXC,304,4711d5eb06132f6c54c424798e268ef3165739bd,credit,Account temporarily restricted due to security concerns,7/13/2024,2779.26
+01JAQ4GDAKY5H3KHC0PAZX8TXD,305,551d763a55d1feab0ebed22e062ca86645887133,investment,Account temporarily restricted due to security concerns,5/24/2024,9064.12
+01JAQ4GDAK9ZP4JPHHGYWHJZ9K,306,8bc2cb7aec9611405de631c07b86c18455c3e49a,savings,Account exceeded transaction limit,7/17/2024,717.54
+01JAQ4GDAMSAEBFRDDJG5PMCFB,307,5dc2605f28433d58273cea1b7add33ed419d0a54,checking,Account under review for suspicious activity,11/1/2023,5032.61
+01JAQ4GDANFWZ4VTE015DBR0PE,308,2b5d0402af145fd72860e93b346b4f33784913fd,investment,Account under review for suspicious activity,7/21/2024,4477.68
+01JAQ4GDAP77GVEKXPD9KHF91S,309,abcd8dd06476a5a354c077a210b03eb7197b5b94,investment,Account exceeded transaction limit,1/5/2024,9844.92
+01JAQ4GDAQH41D1ZAEY09EQYA2,310,a6e8c9caebfc5e5d2ab1f98f8417b7af679703d3,savings,Account exceeded transaction limit,12/21/2023,4731.81
+01JAQ4GDAQ8W7TFK4BSG3EHP59,311,d7e7f446f1be2a1307c4edc78d5a98026a0c4b05,savings,Account under review for suspicious activity,3/20/2024,6807.63
+01JAQ4GDARS9PWMYJ6J19AVPTC,312,5580e1ca70b960b1e0b6bb9890761458b2da9e8f,investment,Account under review for suspicious activity,3/11/2024,265.23
+01JAQ4GDARZ3E8RPMKDW6NDBEV,313,2f14c4757a975d7c5690f180539e014ebeb9f9fd,checking,Account under review for suspicious activity,6/14/2024,5184.85
+01JAQ4GDASYV03Z1XEF81MHFR6,314,812853d512d634558b96dde03a42a2658455238e,checking,Account temporarily restricted due to security concerns,10/10/2024,7151.09
+01JAQ4GDATCGH5N8WBTJ7F0CAE,315,e9f53a8e1e53980e4b01e6ad5d22addf3f731df4,credit,Account exceeded transaction limit,1/21/2024,6547.2
+01JAQ4GDATYM9DYNAQBK6WMN6N,316,413ed80e388248fb546e622a9b9864be40257f79,savings,Account temporarily restricted due to security concerns,11/5/2023,5501.62
+01JAQ4GDAV0CVCYAPCQV6PMADB,317,15de4b51ffc4681a23101e29e494730dbc292ff0,checking,Account exceeded transaction limit,5/24/2024,2552.49
+01JAQ4GDAWAD7X84R7QJDHHF6A,318,cf928e7447a3681936cc2d8a14054c02a3b92ba0,checking,Account temporarily restricted due to security concerns,5/22/2024,4647.62
+01JAQ4GDAX3BAHRNC6Y4RXXSHA,319,4d61dd3ff3eb0f2675990aab74d2cd1c65f89390,checking,Account exceeded transaction limit,2/15/2024,7965.33
+01JAQ4GDAXGWH68D3CCGPQWZXW,320,57bf3fe3da8bdb185b124124b491d812702f0f5f,investment,Account under review for suspicious activity,6/7/2024,8967.17
+01JAQ4GDAYHYJMYGR91CHJQP1M,321,76553ec17fe701dabdec15ad70f8064498991fbe,credit,Account under review for suspicious activity,11/17/2023,9759.81
+01JAQ4GDAZEV6DVP7K5VDGHZ58,322,f32f9dafdd86457cb109a8ea6b933b72757d4758,checking,Account temporarily restricted due to security concerns,1/6/2024,7163.63
+01JAQ4GDAZH6874T0FN0TDJN77,323,5732c209c0e6a08392187240ba4e2457e6f9203e,investment,Account temporarily restricted due to security concerns,1/25/2024,3736.77
+01JAQ4GDB0BCMC3K4M3A2JYJQ5,324,639db51f4af2a2ab83887803eb02f1f052758182,investment,Account under review for suspicious activity,9/28/2024,9093.35
+01JAQ4GDB1ZXJT7WF0Z79GDQB8,325,3579a0cfa17f327d1eae201ec5c7cc14f745d76b,savings,Account temporarily restricted due to security concerns,1/27/2024,4982.92
+01JAQ4GDB13V6DD4A9PA5K0AW3,326,f5b408c8d42670149b98f9e108e4e82451a85b66,investment,Account under review for suspicious activity,1/12/2024,9931.79
+01JAQ4GDB2TTNHYN9PPSTV8WT3,327,79b7263dcf1fba09740913c2d189f5a5f10d6316,checking,Account exceeded transaction limit,4/8/2024,1244.65
+01JAQ4GDB22A44GBTFDEH20JY2,328,43bb178b17ece07dbdca7842595959666b16cb97,checking,Account under review for suspicious activity,11/16/2023,1840.45
+01JAQ4GDB3NS6AFTP6A4W9TPW3,329,8df596b90c8be250bb116fb32bac0f5deda8cfbf,investment,Account under review for suspicious activity,6/11/2024,2936.56
+01JAQ4GDB4WW5CJPBEZ185NYDB,330,158b339e129f0ebad4e066f9045abdc76a7c5c6c,investment,Account temporarily restricted due to security concerns,12/26/2023,8229.17
+01JAQ4GDB4H2N2EM5DQ6D8RPE9,331,ceb5a0431870c24c05a6952bd9d736286c2c6799,checking,Account exceeded transaction limit,7/8/2024,1056.98
+01JAQ4GDB5M2VGGH7Z1BQ332CX,332,af60b81bf29e6a29f1ec75d8ca1710b5ee8fed61,credit,Account exceeded transaction limit,10/2/2024,2161.69
+01JAQ4GDB6RT3FJZ8CFTY2CSS0,333,a577d57ab3ee3e7f3e4b2a31e33f44b81755eafe,investment,Account exceeded transaction limit,1/11/2024,2114.88
+01JAQ4GDB62YBNGYB5K3QZ5F7J,334,c21867fa131a41fa56cecf037db6618bdcb87b7f,credit,Account exceeded transaction limit,4/13/2024,5571.14
+01JAQ4GDB75JEC7SCGMA92SY5P,335,a9df38285f68c54d62d6d8c923ebd05f8186b827,savings,Account temporarily restricted due to security concerns,7/7/2024,5078.92
+01JAQ4GDB79MJ0SCE7JJ06F4FA,336,61e97b0c90e94aec920ab57c49161b9e69fd60b0,credit,Account temporarily restricted due to security concerns,9/12/2024,8334.1
+01JAQ4GDB8QHVEXW8NSCW91ZRD,337,8f72f97887af21c9f1a2325c45cab96a30c721eb,investment,Account exceeded transaction limit,6/28/2024,3690.83
+01JAQ4GDB9N66QN9BCCTS58K4J,338,f7790a2e73d872963ab7d8ee62c90cf0c90a8ffe,checking,Account temporarily restricted due to security concerns,12/13/2023,5303.04
+01JAQ4GDBAJN9NJWE71FV5MN1J,339,2f4f237717fbb15104035f13b4b010e29dc51f6a,checking,Account temporarily restricted due to security concerns,11/1/2023,6739.97
+01JAQ4GDBBG1NHHY5BEWF475FX,340,7e7b7c7d65bb4221b5d780662e32b1918dc40b4f,checking,Account under review for suspicious activity,10/20/2024,7204.95
+01JAQ4GDBBBQF64QK9QR1Q8Z94,341,4f3f20a5c53a186c40e20f84cfcc83a86449b307,credit,Account exceeded transaction limit,12/24/2023,7805.61
+01JAQ4GDBCHVNDHPJCQXRZCSYY,342,f9c9415a8b9157c012d8ca7650d1aa784aa6656d,credit,Account temporarily restricted due to security concerns,1/5/2024,6949.16
+01JAQ4GDBC41FDQS5CXEQQF6V2,343,8807b15bd6e6cd8f8f63ba63013c962e9c0643db,savings,Account temporarily restricted due to security concerns,7/17/2024,4222.76
+01JAQ4GDBDT9SC468PB4MEJN31,344,26805dcde5ef57e27e18c35c8eb218a0571e0adb,credit,Account temporarily restricted due to security concerns,1/8/2024,4169.14
+01JAQ4GDBEC4E4AA0SZF3YS45D,345,49f5073beac94f1eef3928d4c2949ee8852cece4,investment,Account temporarily restricted due to security concerns,3/6/2024,4795.56
+01JAQ4GDBERXM63TA24VBAGX6D,346,4cf3d6c81288fb5647dd9dcf506e619229e39556,savings,Account exceeded transaction limit,6/27/2024,7256.45
+01JAQ4GDBFMGRF3S9C15M5HW1Q,347,8b3a3df43860e3f158e4be1f19d358de9c1a83ff,checking,Account temporarily restricted due to security concerns,3/6/2024,2908.91
+01JAQ4GDBG1FSZQVNXJTHV2SD2,348,8feb9f066f7d8afa2caaa6764a924b553f3db560,checking,Account temporarily restricted due to security concerns,7/23/2024,1.39
+01JAQ4GDBGFQGM9Q870XSGPQ9H,349,bd1eaf7b5e0f583448ce6e183946a0699dbef6ee,checking,Account under review for suspicious activity,11/22/2023,6873.8
+01JAQ4GDBHTCXZCMWDTKWMFAQA,350,307fb4b1c018de6128ae96c0629ec88a15c6de5b,checking,Account under review for suspicious activity,10/26/2023,5623.48
+01JAQ4GDBJRQHB8JP4FSSTPV5M,351,ffe3db91f9ff89ef95b1facf6acd9c3879582cf0,savings,Account temporarily restricted due to security concerns,3/17/2024,56.45
+01JAQ4GDBJXENJJZ9QMQW8GE4Q,352,9f19672fe27415382b2855d461991fa8ed4b6d62,credit,Account temporarily restricted due to security concerns,11/28/2023,9479.93
+01JAQ4GDBKJE2CXRHCY369T721,353,7b9d37eb1fde06b4aa43f7e1bb23a177d2258471,checking,Account exceeded transaction limit,4/8/2024,1599.64
+01JAQ4GDBMCWA47DJ3AR6R2BNH,354,10040c25205b75ace772cee2449b3e0ffbedf605,savings,Account under review for suspicious activity,10/5/2024,1208.33
+01JAQ4GDBN1WD8KP1D4HYQST54,355,1bd9d83dadb0069caafd322f0f469cf430fad18a,investment,Account under review for suspicious activity,8/21/2024,1790.62
+01JAQ4GDBNMCWKZD91W695AHT3,356,512e18f8ba635b325cb0fe4d0ae00b3f7b88d053,investment,Account exceeded transaction limit,7/29/2024,3820.86
+01JAQ4GDBP3MSZH7M4SRFWGCZ6,357,f80903621e17fed7a5d6c2cc6aabb6e955d75c4c,checking,Account temporarily restricted due to security concerns,10/17/2024,873.85
+01JAQ4GDBQPS0B2HN90PQAZHFQ,358,8f4b01e5dbd032e263754cf62a81046fd2b74639,credit,Account exceeded transaction limit,7/19/2024,5803.26
+01JAQ4GDBQ9MWS6STMQFB8AGPM,359,05f3d40337274b0c1a7a045c952faea34deb2ab3,savings,Account temporarily restricted due to security concerns,6/10/2024,4511.91
+01JAQ4GDBR3FADK18WM98E468D,360,c5a5a7d3225951bd5be3f8752ef0ab49431ef87f,checking,Account exceeded transaction limit,9/2/2024,378.84
+01JAQ4GDBS791ETM4M4ZJPMYCJ,361,87f29a75590c6c35b3da3b610e2126671b7c6e8b,credit,Account exceeded transaction limit,8/11/2024,5280.44
+01JAQ4GDBSG2NHWDH1VJ54Q3BG,362,751f40f014095361d1c5006913ceb6744a6439cd,credit,Account exceeded transaction limit,4/29/2024,4802.51
+01JAQ4GDBT0Q0G47SC3K75ESMP,363,e4e2df077604e2297ca61d6ca4157de7b5df2739,checking,Account temporarily restricted due to security concerns,11/26/2023,5343.22
+01JAQ4GDBTPBR9682XDMM0WDZP,364,ad0f9f7b8ce0c3a7ce7825d07518e46f89a9d8fc,investment,Account exceeded transaction limit,2/13/2024,2628.65
+01JAQ4GDBVFNJCA0SSS35FETTM,365,abe568bd8c06f3cd459a85a1941c7e69d7a47b83,credit,Account under review for suspicious activity,12/15/2023,8125.39
+01JAQ4GDBWKZ48H8XJ1707DGMN,366,d3e6bbcc20c3654d29f741277d2e4648e58eb101,credit,Account exceeded transaction limit,1/4/2024,3224.74
+01JAQ4GDBWET4QJ82G98MZWHQY,367,f38c2cdde1ccd375d9ff48488057ec3eda9a8eb0,investment,Account exceeded transaction limit,6/2/2024,8541.01
+01JAQ4GDBXGAZZTZBG7S6SMHHW,368,a3d5233ed597c0008f81e178e6f6ea113ff3f5b5,credit,Account temporarily restricted due to security concerns,3/17/2024,8204.79
+01JAQ4GDBYYYC4TAE1S8RA6T8Y,369,466b167c20182c4f548907b032d592a54b6c1c23,savings,Account exceeded transaction limit,2/23/2024,9721.67
+01JAQ4GDBY69C2P1K23WEY6NPG,370,8b1357fee5177d11efa340c4b396483adcb7080c,investment,Account exceeded transaction limit,7/6/2024,9733.67
+01JAQ4GDBZX6H6E71RCCHJ9GT4,371,4a78e78d0a4fc122a470358216660d878b441510,investment,Account exceeded transaction limit,7/2/2024,2421.06
+01JAQ4GDBZ4TK14FRXVZXEEG0R,372,220fb65c236cd91436bf7fe29e7bb3f0f9d827a4,credit,Account temporarily restricted due to security concerns,12/24/2023,3046.11
+01JAQ4GDC0GYQSHTDDBPPTTQBE,373,1fdf3507d172c7b8926ee6b3d22e0dcf6605c007,credit,Account temporarily restricted due to security concerns,3/21/2024,7722.26
+01JAQ4GDC1FJ36XAZH49N7J7Y2,374,ec497101d62806ccf5b00a4b6dc35d7731243f4c,checking,Account under review for suspicious activity,4/6/2024,4754.7
+01JAQ4GDC17K0AH0THZN0SJNPK,375,8a03807cc94bbaa05c7d335a790e73ad7682c5c6,checking,Account exceeded transaction limit,10/20/2024,7985.25
+01JAQ4GDC2D68BBDHPMRBMZ8RK,376,04a36e7d48f33975b1c22d0ce4954340636dce75,investment,Account temporarily restricted due to security concerns,10/24/2023,6040.6
+01JAQ4GDC31MBGZY2W5JSTWTNC,377,d5f45d8b9f9a0baaf6cad195174c0e2d0d32acd7,checking,Account exceeded transaction limit,7/24/2024,3799.18
+01JAQ4GDC3RXB2FZKWP1950MZ8,378,2ead6783bd02d3ebaba849799ab0f56ad13e3bb7,savings,Account under review for suspicious activity,7/14/2024,406.06
+01JAQ4GDC4X9VDR1D1NDWFP40X,379,bead6378500de49e5436579798bd858014cc814a,investment,Account under review for suspicious activity,1/21/2024,2739.23
+01JAQ4GDC53E4ANB155X1MHNGN,380,249b647131d950933a6a03bf401c1e295b1a14f9,checking,Account under review for suspicious activity,3/14/2024,9515.58
+01JAQ4GDC63XEZ6ZX25DQ8J4KM,381,96338370869c1abe9f6aa578922b090af36f5658,checking,Account temporarily restricted due to security concerns,9/27/2024,7667.9
+01JAQ4GDC63KYPPR3PHAZPP9ZN,382,bc9680ed3701bdced51379bdbfd21efa93cce46c,credit,Account temporarily restricted due to security concerns,7/24/2024,2985.83
+01JAQ4GDC7PSNA8NFW9TQMD4KV,383,a5245127e58f3d7bff36ed897f6836ed65b6436d,investment,Account temporarily restricted due to security concerns,11/19/2023,3815.92
+01JAQ4GDC8DJPM4RD1XGGW63PG,384,2f328dedd4d1260bb4b616123f51fc524e1ba440,savings,Account temporarily restricted due to security concerns,8/23/2024,9769.44
+01JAQ4GDC8N82B4EFVSS2SQM8W,385,218245ff7605b52dcafcafc269873f7163e71dc6,credit,Account temporarily restricted due to security concerns,5/1/2024,9711.94
+01JAQ4GDC9MR5ST72SSHCD93S4,386,16810483998361d01f91aa9b887bf3e90ce1bd6e,checking,Account under review for suspicious activity,8/5/2024,9963.7
+01JAQ4GDCAZ8PB71NJ0CWC4AQM,387,6651f3c9d5f447ddcd7aaf65d1ac99725c73c048,credit,Account under review for suspicious activity,2/6/2024,5040.54
+01JAQ4GDCA1SXS4WAKCJQYEVK3,388,d2f42996cb0134ad9e8dfae105cdda949e07009c,investment,Account temporarily restricted due to security concerns,6/1/2024,8744.57
+01JAQ4GDCBH531W6FAB92KDQEE,389,5d4d50ae3d4215a497433a797242b823a4062d02,checking,Account under review for suspicious activity,4/30/2024,2522.14
+01JAQ4GDCBV0468B624F8EXRAT,390,6700b266d152b906e923fb8937e0045f74d9bfdf,savings,Account under review for suspicious activity,10/18/2024,6030.51
+01JAQ4GDCCP54R6D52YGY7DC2N,391,f326db4061df674c0af89bf50cfc117b4d4fd4a4,credit,Account exceeded transaction limit,10/2/2024,7216.47
+01JAQ4GDCDCQDS32GD40XWNN8R,392,96efcf3b4d808271a7ca8af997427520e8a20ac6,credit,Account temporarily restricted due to security concerns,10/29/2023,2745.33
+01JAQ4GDCDG7SBS7Z8XZ5VJ76C,393,3e3adcadfba524ef02af173184119c34dc6f5b3d,investment,Account under review for suspicious activity,5/29/2024,5724.7
+01JAQ4GDCERCZ1HRSHGTM7X8FD,394,12af4f24392c461f7eed24700d4dd69be7ba58cf,investment,Account under review for suspicious activity,4/20/2024,5788.6
+01JAQ4GDCF3F5YY01Z88GEY6QA,395,1db5fa38047c4bbc44f1288dfe29d6b42294e684,credit,Account temporarily restricted due to security concerns,7/25/2024,7912.42
+01JAQ4GDCF8MQSKZNYT7WWES2N,396,a3ff42d6ab68de1f03db21ced2ccf1068dfec9dc,checking,Account exceeded transaction limit,5/17/2024,3043.68
+01JAQ4GDCGYY280Q6QB5SG5SP3,397,f66017174df9f0c54f96fde0a53c2309fabd4521,savings,Account under review for suspicious activity,2/4/2024,1242.14
+01JAQ4GDCG30HREX6XMHCDAD9T,398,be2068975f260b258256ec6bd82f0fbe8b08bd1c,investment,Account under review for suspicious activity,11/29/2023,7170.23
+01JAQ4GDCHDAX1XZ450XPT4HJ0,399,690b27e7cfc4832c3ce9576724de1f9f1f0f25b7,checking,Account exceeded transaction limit,6/1/2024,7718.07
+01JAQ4GDCJDKQY4021ABEF4BW2,400,37b79bdbffb3a8b11851cf6bcc17c12a4057bcee,checking,Account exceeded transaction limit,6/8/2024,5072.15
+01JAQ4GDCJ3QA9RH1WFVXJZ52G,401,165d7e046d74d10e8eea65c41559ef797a0c56b9,savings,Account temporarily restricted due to security concerns,1/8/2024,5825.63
+01JAQ4GDCK59NXX9WY7VJSCNTX,402,57e4b309fe874c304c292acc78c270894cdc395e,checking,Account temporarily restricted due to security concerns,6/6/2024,8036.66
+01JAQ4GDCKJTBT3VDQX01BJXHP,403,fca18d080d3c0568d3ad99b27e3c728c8713d72e,credit,Account under review for suspicious activity,11/17/2023,4208.57
+01JAQ4GDCN99ZYPDENPWNNHVHV,404,ac138f29ede0c960297fac4c9b8ed885b063982c,credit,Account exceeded transaction limit,11/24/2023,3170.11
+01JAQ4GDCNFZS1NA8GQTDTAN0H,405,5a8c126f3370b62c2535a0081b793c8e7bd258c1,investment,Account exceeded transaction limit,11/26/2023,4714.53
+01JAQ4GDCPB0SPNSJ3VP2S3NJV,406,2883f24c483410a7c6889c097fd85ff6bbd21e0a,checking,Account exceeded transaction limit,3/12/2024,6377.16
+01JAQ4GDCQNY52DB20WZC30YEX,407,25a289a5b29d6bc4f78eb565da46dc2c03721741,savings,Account under review for suspicious activity,2/17/2024,9958.97
+01JAQ4GDCQ7ZWGBMHASVZPDZG7,408,e6e1a12b7c07fd394d81fc5944a42d73258e38d8,checking,Account under review for suspicious activity,10/14/2024,1268.91
+01JAQ4GDCRKPB22GNMRRN8HSFM,409,b727762bfafee7b6b919c5ded3042762c6b237cb,investment,Account temporarily restricted due to security concerns,5/5/2024,8396.75
+01JAQ4GDCS6WB7JH1M4AZ0VMC0,410,2df2200a9183a59d0a8f6cd2a4568c3629227f7f,credit,Account under review for suspicious activity,7/24/2024,423.92
+01JAQ4GDCSD4ZRMRRA056RKSJR,411,11085144efcb788ba8531553e4d1e6e6c6ac5dab,credit,Account temporarily restricted due to security concerns,6/19/2024,6762.56
+01JAQ4GDCTXF7RTHAXKNBX6SMG,412,0088f558e36b0b08681ccb67aa24bb53ca67c185,investment,Account temporarily restricted due to security concerns,8/4/2024,4884.87
+01JAQ4GDCVNK9FW9ZKCGWACP0V,413,0435735e942c36219786ba528750e9fa1a4afd35,savings,Account under review for suspicious activity,1/19/2024,117.98
+01JAQ4GDCVGZH8JDPSBVHZHFQT,414,1cf3a803141644b598ce1c1dde525eb1bf121fe4,investment,Account temporarily restricted due to security concerns,9/8/2024,3285.53
+01JAQ4GDCWKE0WS97NN4RATGAF,415,03f4eae06f1e888c42fc76cfa71bb1e87f225de5,credit,Account temporarily restricted due to security concerns,8/17/2024,7779.58
+01JAQ4GDCXJDAFYK7Y0H9GH76X,416,67adffc92511660788ebe354693d76498c0ea024,investment,Account under review for suspicious activity,7/12/2024,4574.46
+01JAQ4GDCXHPRVQTQYGR1KSVV6,417,423f5647c6fb4c954f3c6704719776214fc0a521,checking,Account under review for suspicious activity,6/4/2024,1651.61
+01JAQ4GDCY3XJBQW3CXGY59DG1,418,f918c12660e92c561d92676fcdb0c5c23e1d4d31,investment,Account exceeded transaction limit,12/16/2023,3265.14
+01JAQ4GDCZRNDJE6Y5E99PBVFV,419,a86b81c43766fb6f3ffd88c82004e1f13d0adcac,credit,Account under review for suspicious activity,3/14/2024,9495.27
+01JAQ4GDD0B909220ADS1NKY78,420,dc35407a6bf85e9c06fee19b3458adb4f98beb3c,investment,Account temporarily restricted due to security concerns,10/18/2024,2219.83
+01JAQ4GDD1P61CW2HJXXH3T5WV,421,1d3901498d6f8c01fc4cf66df7baa19f6b35f75b,investment,Account temporarily restricted due to security concerns,6/6/2024,9985.21
+01JAQ4GDD1HZ9KMJPSJ564X2T3,422,9e7966153b7f4eff63186092b2698b87162cedd8,investment,Account under review for suspicious activity,10/7/2024,4994.84
+01JAQ4GDD2SJAAAW5BVZ3TY4WR,423,bff4a1d9e537c8565d4b3d16bd6d75a9c443648f,investment,Account temporarily restricted due to security concerns,8/10/2024,5667.25
+01JAQ4GDD3207ND5VFAKJJXJ7A,424,6edb23ac47df5f63d41158f579c9882ae3859bf4,checking,Account under review for suspicious activity,11/1/2023,6966.78
+01JAQ4GDD4KDHJJK2E1DDBS8CB,425,723cb0916a46a933d77af3933d17416cd92e4648,savings,Account under review for suspicious activity,12/9/2023,1533.2
+01JAQ4GDD4Z5B67J54FTQ04HMS,426,126695e77deae64dc74b9a7383245069f15183b2,checking,Account temporarily restricted due to security concerns,3/27/2024,3502.41
+01JAQ4GDD5TQKEXPJVE9C5HZ18,427,c977aab4f72f202b800370a0663215fe6055ac26,checking,Account exceeded transaction limit,12/15/2023,5173.5
+01JAQ4GDD6GNHXJSKEC5GJGZSK,428,bb7521391f0129471b6b6a897a3a6afaa1f9dcb4,savings,Account exceeded transaction limit,12/25/2023,7619.32
+01JAQ4GDD65YFPZEFFJMPHSEC6,429,fd67b4928a912e0c7bb12d784ec5da033c591472,savings,Account temporarily restricted due to security concerns,3/22/2024,4424.14
+01JAQ4GDD78KKSKESHBR4FKWQZ,430,972ba8e4dfbc0435455bd9ccde22b6bf39632fe6,savings,Account temporarily restricted due to security concerns,12/2/2023,3190.31
+01JAQ4GDD7E6KT2QT76EEBBZXA,431,40483da2b7dd978baa1285d0ac2e1e16b4ba1373,checking,Account under review for suspicious activity,10/30/2023,4225.44
+01JAQ4GDD8WS3TDSATMS98Z6D9,432,d34bf69020b32a3677b5d0e0cb53de876a1cba21,credit,Account under review for suspicious activity,7/6/2024,376.4
+01JAQ4GDD8KQ36X7DBFD4TDK4Z,433,bd86f04ae1d6a8c87a4629b3788602ea330272eb,checking,Account temporarily restricted due to security concerns,2/28/2024,8629.75
+01JAQ4GDD9EC2XBVYHFEP6WNXB,434,fde0bac5921b75dc270a77825c57bdead2536fa8,credit,Account under review for suspicious activity,4/27/2024,597.65
+01JAQ4GDD9V7JB70FS9K57VZBV,435,482e901e433fd6ec9dbe36fdd4a2e3db2fb71230,investment,Account under review for suspicious activity,4/15/2024,1217.86
+01JAQ4GDDAJ6M3KPMJ9V3AQSNJ,436,c7799dc4a4eda401cf34dd428eb5830a24a3ca6f,credit,Account temporarily restricted due to security concerns,8/30/2024,7966.51
+01JAQ4GDDASDJZXVNNZ6XV027W,437,8b8dc233822742840481bfbc1b6c1eeb6604a095,credit,Account under review for suspicious activity,9/2/2024,9155.13
+01JAQ4GDDBN0P8X07SF8QA142K,438,b83761e40d1700e0ee41653f9e750ba1e56b03ce,checking,Account under review for suspicious activity,4/24/2024,7864.01
+01JAQ4GDDCQ0M1WZFGSR6BDH4Z,439,d562617e8cacbad27c44a7473691ee6fd4cc7511,checking,Account exceeded transaction limit,3/31/2024,9512.64
+01JAQ4GDDC84415TBD1FK3KEC1,440,cbdb01013c9516a33f8c8d37d6673299cc2fc6db,checking,Account exceeded transaction limit,4/12/2024,6602.07
+01JAQ4GDDDWYWJW8G0KRZC5K4N,441,8e2eccffd2081e2bfeda12ff5a17c09f5f51c2a1,savings,Account under review for suspicious activity,11/19/2023,9376.57
+01JAQ4GDDD616NKPFCHSCB3Q2N,442,218b8b7da91d4ee58e1de8bdfe20a78174d54b7e,credit,Account under review for suspicious activity,9/16/2024,7955.94
+01JAQ4GDDEAVMNF12QPG9NDNPG,443,07c4be1e4d57bd777ce978f78ae36c932377b1f8,checking,Account exceeded transaction limit,7/4/2024,7562.83
+01JAQ4GDDE466D6JA43RWSNB71,444,9311dbaaf3c6bce1187dde86d290f5f0f8a457a7,credit,Account under review for suspicious activity,4/24/2024,4907.33
+01JAQ4GDDFRH7RS0CSY4DHZ9PG,445,c9cce18b888e3d8a3543729c91b457b3dbc93ca4,credit,Account under review for suspicious activity,3/17/2024,4167.49
+01JAQ4GDDF4PSKM0AJW8QA842K,446,71bee647cd4c8bdff84463a7c6d9af1519f843a3,checking,Account temporarily restricted due to security concerns,10/8/2024,7742.55
+01JAQ4GDDGKTZ9C5TMS674SNQ3,447,ad87cc8bdf428ae36f9740db7d9591acf1e7eca1,savings,Account temporarily restricted due to security concerns,1/7/2024,5983.2
+01JAQ4GDDGK22CBCN2TN1C4QAX,448,d331540655fbccec2fecfcca97a74249a3457d84,savings,Account temporarily restricted due to security concerns,9/23/2024,8762.65
+01JAQ4GDDH35MXJZ3G5VH3XAXN,449,8872a7fa8c22547abda36915917c024a1df3352f,checking,Account under review for suspicious activity,9/16/2024,1528.8
+01JAQ4GDDJ17S53XW28TZVZTY4,450,4db5458bdfe83839e102563f0bc68cb97cc21ba8,investment,Account exceeded transaction limit,11/9/2023,8150.73
+01JAQ4GDDJNP9EM6E9NT27G2C8,451,a45a6f510ba9d1dce9b7e55f936ac40753f6a494,savings,Account under review for suspicious activity,8/17/2024,7623.46
+01JAQ4GDDK607CDXW3MJZCYDHS,452,63421274cd530b53edd61535e3f36b86c131c9c1,savings,Account under review for suspicious activity,12/21/2023,6464.42
+01JAQ4GDDKWJAD050T489SKWBN,453,14f50e0b0b2fcec994dd563f3d7c130f46500ddc,checking,Account under review for suspicious activity,2/10/2024,4370.59
+01JAQ4GDDMGFB6Q7KH3G4B4VSB,454,c6259514f7c6dde7f4d4e03623f8c2dabe70594f,savings,Account under review for suspicious activity,11/20/2023,5870.92
+01JAQ4GDDMXJ9X76Y7VT5P32TA,455,1d43f42fc0d831339424b3a6fc03d90892a1af21,credit,Account temporarily restricted due to security concerns,6/28/2024,9180.59
+01JAQ4GDDN1399M09H1E9RMCW8,456,71068327bbb57f1359bf668e22c84c078de16c0a,investment,Account under review for suspicious activity,7/22/2024,4962.83
+01JAQ4GDDN3YNYFS17C7SYM4YY,457,0271775bc5830fbd6daa34d1a6d55bce5c9abfbb,savings,Account temporarily restricted due to security concerns,9/19/2024,1833.74
+01JAQ4GDDPC29EEB6DASQAW9H2,458,3103aa5b04a34ee811f4754ccef31597471e10fe,checking,Account under review for suspicious activity,2/19/2024,6159.75
+01JAQ4GDDPY53K4KWC65Q9ZN2E,459,6a3ecd0a35537d441ef5fd5c658c15b0b137a4fb,credit,Account temporarily restricted due to security concerns,12/2/2023,1996.41
+01JAQ4GDDQ3KSCADMKQT2KCEGX,460,c60136fd85c76e20b2ac279aba8179c06f594173,credit,Account under review for suspicious activity,12/12/2023,1070.09
+01JAQ4GDDQMYTF5R2527JGQ29X,461,c604f0370c3c47e28b0f398b6372baad27e33822,checking,Account exceeded transaction limit,3/25/2024,9466.75
+01JAQ4GDDR354XYS2CA6XX17Q3,462,ba24e99c38941d2b0a0005c68306d3c8accd9d91,checking,Account under review for suspicious activity,2/21/2024,9605.81
+01JAQ4GDDRKH4MHTFXSWFS0P5X,463,17d271d72c76971938e481993913a8261b7dd667,checking,Account temporarily restricted due to security concerns,7/7/2024,6575.52
+01JAQ4GDDSYS45ARW9GEBW8NVA,464,f1a9b8210558a50a0c2183221d30dbbdb3af64e1,savings,Account temporarily restricted due to security concerns,10/23/2023,3740.77
+01JAQ4GDDT7708EE4B1AV7GS07,465,9178c30664c330c1ad486110f4aa02da73897db6,investment,Account temporarily restricted due to security concerns,5/2/2024,309.79
+01JAQ4GDDTFG6WPDBFFAA3YNZF,466,420d1fa9a290451fb2cacf167adcc5ece1dae8c8,investment,Account under review for suspicious activity,12/13/2023,3808.7
+01JAQ4GDDVZY4YDS41YMTCSYXC,467,422bbe9b76e9e27af904a0e594f900542040bfaa,credit,Account under review for suspicious activity,7/6/2024,6498.74
+01JAQ4GDDVM36RM7TG8514G991,468,494cc53e14c5997c6d4f65884f38e134689866f8,credit,Account temporarily restricted due to security concerns,2/24/2024,5541.89
+01JAQ4GDDWQJ9448E734EHK160,469,107d3d2a489135c49e9037223ace3bc8706a0abd,investment,Account temporarily restricted due to security concerns,9/26/2024,3865.49
+01JAQ4GDDWYRY3NP4G8KNXFK8Q,470,c3530fac82882a40084b84ff575b45c10103a4d8,savings,Account temporarily restricted due to security concerns,8/5/2024,1589.63
+01JAQ4GDDXT2JQ1DKYJR92XXSP,471,f39e4ecd74f3924850aede7a12ee382b1c91ce5c,credit,Account temporarily restricted due to security concerns,8/4/2024,497.76
+01JAQ4GDDXMSMAHV9BW23BD86N,472,2285740fb3fb52ce191ec7ac79baf32c0cac2ae9,checking,Account under review for suspicious activity,4/3/2024,7873.95
+01JAQ4GDDY304PY20D1W7EQ6SP,473,97f4005f554e309d0f4166b0ee4370da00d57ada,checking,Account under review for suspicious activity,9/21/2024,9185.83
+01JAQ4GDDY27PTJVE9E9XMDQ3Z,474,f19e95709d19847a9df415cfb921824ed2aff1b3,credit,Account under review for suspicious activity,9/12/2024,1288.18
+01JAQ4GDDZSDNJYSK2P23C3BXK,475,6b85874bbae1c5bbcea9423f7126bbb802dd86b0,credit,Account temporarily restricted due to security concerns,1/5/2024,7641.43
+01JAQ4GDDZNN9NBY8Q850T4VE2,476,8c769f20fff8014d5d1784e0ab4243a910e18808,investment,Account exceeded transaction limit,3/17/2024,1158.99
+01JAQ4GDE0TMJ28S7BGARKCQ7G,477,8a5de806e21da71ce55e9d5a1de7926d8ffad93a,investment,Account exceeded transaction limit,3/15/2024,936.29
+01JAQ4GDE07H18T35TJ00GB69H,478,39e068178a1b2fa82509953aef3cecbda71c27f5,credit,Account temporarily restricted due to security concerns,6/19/2024,6493.09
+01JAQ4GDE1052FHTD9A5WGM6A1,479,df93a7ce406435d47671c43b3b3c7293db3d2ccc,savings,Account temporarily restricted due to security concerns,4/13/2024,6847.11
+01JAQ4GDE2GQ3HJS6GV5G15TY4,480,41f4fd1c8629d7b60aae66c6e5bbb0ca959cfc04,savings,Account temporarily restricted due to security concerns,8/1/2024,7689.76
+01JAQ4GDE2H91YKC2B4JJ3Y9AF,481,99d1763621798935869a5f40cbb97faa5b1391b8,credit,Account temporarily restricted due to security concerns,4/15/2024,6856.08
+01JAQ4GDE3CVQYYPWERXSZ0TQG,482,8a815a43e7c06e065470a2524e2a23dd541aeec9,credit,Account exceeded transaction limit,12/8/2023,1895.77
+01JAQ4GDE3WWPYMGCHQ69R5CDZ,483,5f8e14f0e78533cf74cb5d061a6e85e0eb4d059a,investment,Account exceeded transaction limit,3/26/2024,8969.81
+01JAQ4GDE4N4K5PYFZQBFQSM6P,484,ce0d26862efa29e294823c34cf55945c3198de16,savings,Account under review for suspicious activity,8/19/2024,6099.04
+01JAQ4GDE4614Y5FBSNBFVCHBP,485,6cc67fb6ab25b4858713f8624de61c0fa9f82e76,checking,Account temporarily restricted due to security concerns,9/30/2024,7297.09
+01JAQ4GDE52JEXF9KQZK62GAGX,486,59217f9961618b5d84ae176d3d64f4332e484605,investment,Account exceeded transaction limit,7/8/2024,9668.5
+01JAQ4GDE5HY0B3ZB33BZP1XXQ,487,648c0df4accf034f5f5d717d9b4a3662dd355245,credit,Account under review for suspicious activity,11/28/2023,8468.06
+01JAQ4GDE64Y1AF85HR669VQ99,488,31e5459f9742ec60108ceb19425fed04216f8a80,credit,Account temporarily restricted due to security concerns,10/17/2024,8053.97
+01JAQ4GDE6A1BM71RTHB1447NJ,489,b0cfd46cec7a839153996251f89832406eb43061,checking,Account under review for suspicious activity,7/23/2024,4937.85
+01JAQ4GDE7MPR037RF46SRE5KP,490,eb7895ee51f144d1ca3252351d43fefce09c288c,investment,Account under review for suspicious activity,10/15/2024,1634.87
+01JAQ4GDE7QE7KZ6DFSKDAA1SF,491,cde9319a3389bc2308e91b9677745fa5b5afdb26,checking,Account under review for suspicious activity,4/6/2024,6942.68
+01JAQ4GDE8E34MQ2H2X0591ZAN,492,4c3455f93012f49fdf72ec71dc18b6e15859c379,savings,Account under review for suspicious activity,1/29/2024,7511.46
+01JAQ4GDE8YYS2E1WQV96EQYJ1,493,201dd37406228bbd4c5376dcfe8348112f0de11d,investment,Account exceeded transaction limit,8/3/2024,1385.85
+01JAQ4GDE9XBA5NQKS4N3KG2DM,494,acf07615a050b2b9a38ea9def48cd75af29429ea,credit,Account exceeded transaction limit,2/11/2024,8963.68
+01JAQ4GDE90THX7RBHNXMP0B43,495,11cdbe9fb97f23d9cc961864dbb27d362b5193fe,investment,Account under review for suspicious activity,11/1/2023,5.62
+01JAQ4GDEA7NP2ETGAT7BB82DH,496,9423b7c09fde0f4ff3680b2b28154d8c444f24f3,investment,Account exceeded transaction limit,6/26/2024,8022.86
+01JAQ4GDEAC84F69HFJVFEEANA,497,dc71d2c619e1e89b5f58eb227176a23e14281f58,credit,Account exceeded transaction limit,4/10/2024,8394.17
+01JAQ4GDEB3NKQYPJ45W0V5JEJ,498,6bd2e637cd251bcafb1249b365d22002f86f2145,checking,Account temporarily restricted due to security concerns,8/15/2024,7379.41
+01JAQ4GDEBBDKG4KM0NYAG567R,499,d10d9d11f0855c041f101148928e137130694dd9,credit,Account exceeded transaction limit,7/14/2024,4841.74
+01JAQ4GDEC4CCMPWTRW184Q2Y4,500,fe7ab90b0a852260937ca2673fc5077661b75cab,checking,Account exceeded transaction limit,5/23/2024,5333.7
+01JAQ4GDEDC3W73SK36ZQWRTCX,501,2f6a56b0ed0f9863b95864b13df5b36ba716072f,savings,Account exceeded transaction limit,5/19/2024,1820.88
+01JAQ4GDEDQ1P4C0YPDBEX93DX,502,2be3d3972c810795a5908d8a9389afac8fd1a646,savings,Account under review for suspicious activity,1/17/2024,6441.96
+01JAQ4GDEE5XHFE8PTMKF5RAM2,503,fc19842bd2c306d75259f5fdfc140bc187e6b832,credit,Account under review for suspicious activity,8/1/2024,62.77
+01JAQ4GDEES755EYNG81XMJZZ7,504,f031a4812cce27311c30c2d930095e3ad588c0a7,checking,Account temporarily restricted due to security concerns,5/28/2024,6370.65
+01JAQ4GDEFE9GTT9KG07WBGA29,505,0b2973935f1c997f93489f02972673897e1df734,credit,Account temporarily restricted due to security concerns,4/23/2024,7302.66
+01JAQ4GDEF8XQAT7MXR7YQACSH,506,81609ab97054bf2150374e2800a68e60c5f23b5d,credit,Account exceeded transaction limit,10/20/2024,5214.69
+01JAQ4GDEGN64K4GR6258M5PJP,507,c40b3e52dae73642eba07af5680f86d4e1e423ec,investment,Account under review for suspicious activity,8/21/2024,5090.31
+01JAQ4GDEGBYKT7WEA1BVD4052,508,96ed3308d95adc9b166497bdf15697fb9325f83b,investment,Account exceeded transaction limit,9/24/2024,8770.29
+01JAQ4GDEHXXF22CBVYEJE0JEJ,509,5b72021c501db3d63bc591bf36b4f565c9b23752,savings,Account temporarily restricted due to security concerns,1/22/2024,2129.95
+01JAQ4GDEH092W18MAA77R3MZE,510,9b82e4c2abc598e6f8a1b63bf2f38ebb6de009f5,savings,Account temporarily restricted due to security concerns,8/27/2024,4179.54
+01JAQ4GDEJ4AT9ZFQM7GJ8SJAW,511,233dbdf06077b2f78529fef4df1529fd03fae6d5,credit,Account under review for suspicious activity,3/4/2024,3664.99
+01JAQ4GDEJWHMVYAGNY2VBYX25,512,dd9c306e9b34e37ed20ed3c8fb9263efe155cae7,credit,Account under review for suspicious activity,8/1/2024,4801.49
+01JAQ4GDEKFMVQ6D0E83MS9XNJ,513,919c5872d62a8fb37e972cca6fce1703eca33397,checking,Account exceeded transaction limit,10/31/2023,6163.4
+01JAQ4GDEKQ92YNWC1MJ5GVW1S,514,7ecd5277b8b61ceaee9b26d8bee5eee025ffacef,checking,Account under review for suspicious activity,3/3/2024,3084.54
+01JAQ4GDEMZQ45S0PYY2TV9MAD,515,8627044aefbd9860b4cdf4dacba803cb76cf0718,credit,Account under review for suspicious activity,3/17/2024,3113.03
+01JAQ4GDEM7NWXESZW5MYWWVMV,516,f8dc2997ea0842c03d3cc4eb3952fe21dead4e97,investment,Account temporarily restricted due to security concerns,2/16/2024,2913.64
+01JAQ4GDEN82E73R01X37CGJZK,517,d471ad41461b3eb79e1d5b6211188190b5ec3675,checking,Account under review for suspicious activity,3/6/2024,7334.65
+01JAQ4GDENBS7X51PSB4ARRH4B,518,7e99a362f871042360f974120d40de7ca93d54d2,savings,Account exceeded transaction limit,3/4/2024,6444.69
+01JAQ4GDEPGP683CP716SM1HTS,519,0286ebb25fcc83a4862d8b9786284ea16469f710,checking,Account exceeded transaction limit,5/20/2024,2138.66
+01JAQ4GDEPBCNF5S18P8Z7VD9P,520,9b3d7384d4b2bc0c3524b4be389fe2c60af03367,credit,Account under review for suspicious activity,12/13/2023,4864.61
+01JAQ4GDEQHXPGDV32M2CN3WPE,521,14c13cebb1becdba632505d5355286833e41f64c,investment,Account under review for suspicious activity,2/8/2024,7836.5
+01JAQ4GDEQ0Y401FQG1CSF01CC,522,3e983ba457c6399b67b7aba34aaa1f5a62198a92,checking,Account under review for suspicious activity,2/2/2024,6615.01
+01JAQ4GDERY03BEA1P9DXF8XCR,523,126afecf016e2e0a39f149cf1ad581c7d6526532,credit,Account temporarily restricted due to security concerns,3/23/2024,852.45
+01JAQ4GDERXRCC4R7GEY08CPSN,524,0439f920bf5b62e4d1e155ae1cf2fc931e95b2c9,savings,Account temporarily restricted due to security concerns,2/15/2024,4878.23
+01JAQ4GDES6J3AVCY269RTJ4Q0,525,818e71b27ba41f425cefe14d709ad4f1353003ef,investment,Account exceeded transaction limit,11/19/2023,624.87
+01JAQ4GDESKNVDVKQ63AVMTG8B,526,e44f86e13e219cc440413f09d22350c78765e7e1,checking,Account under review for suspicious activity,10/8/2024,4927.19
+01JAQ4GDETV54HM1TNAB050VNE,527,10bccc7de013a4ed2a9a5a2da885ac4f8108bb3f,checking,Account exceeded transaction limit,9/28/2024,282.6
+01JAQ4GDEVTMT1690F3JZYEM8D,528,867c79bd25165b84598abf7158d08d12800475a4,savings,Account exceeded transaction limit,2/5/2024,748.88
+01JAQ4GDEV38MKVFP39KPYC64G,529,012e64c2e80a30d3d2584e57a8c4eeea95d23a59,savings,Account exceeded transaction limit,3/20/2024,9858.67
+01JAQ4GDEWGMYRAPWF5QR0QGB9,530,a9668456c260ea027e4729f1fe65e64a0a1f5e8b,credit,Account under review for suspicious activity,12/21/2023,6180.23
+01JAQ4GDEWF58SXZWBWESN7GC3,531,7c8cb45772a0ef1e94b046fbde572382429f7013,credit,Account temporarily restricted due to security concerns,4/6/2024,6855.05
+01JAQ4GDEXDDH42WJ0V4P4XGYQ,532,412a5c5b1c6029a1578fd453b94419e0bcc23f11,credit,Account temporarily restricted due to security concerns,1/29/2024,425.01
+01JAQ4GDEXSG7GD073QFN9JCNE,533,b834ea41d29973c79165c08f70cc1d85629cee33,savings,Account temporarily restricted due to security concerns,9/7/2024,3862.74
+01JAQ4GDEY19VTTG7MRSM8Z26P,534,b6f3e400dedb00a278b712ac5d3aa89650833cb3,credit,Account temporarily restricted due to security concerns,1/20/2024,1726.78
+01JAQ4GDEYW09461A5Y030J0M7,535,7a12b7263d23db1577f3774def847b1b5ffda0e3,savings,Account exceeded transaction limit,3/2/2024,3305.48
+01JAQ4GDEZA5KFZDPQJM36AKGF,536,2ae0fe587e0a56289478e5a8d4f389dd95e61540,savings,Account under review for suspicious activity,11/15/2023,3181.65
+01JAQ4GDEZJ93Y0QP4947YCT3P,537,f4a0ad322fa35e82d1890720c34ccff401764785,credit,Account exceeded transaction limit,10/23/2023,3646.94
+01JAQ4GDF0FY83V5EX0GKN7AAM,538,8de0e2b56ddc90457c28912c0e0fbccddefdf925,credit,Account exceeded transaction limit,11/6/2023,7601.64
+01JAQ4GDF00XR0N8S72JGHZ4BW,539,66ea56f2040cf6f6f45aa0faec5c5c047f76a7b6,savings,Account under review for suspicious activity,1/29/2024,1084.35
+01JAQ4GDF175PFS3BTS8Y4WAWM,540,d245695e064674b3743ad49442ef0c6f5df5892b,credit,Account temporarily restricted due to security concerns,2/14/2024,8419.9
+01JAQ4GDF1DHGRY89JST37MG42,541,32c794dd988245e1a1c21487b8e24989ba219b55,credit,Account exceeded transaction limit,8/20/2024,8591.12
+01JAQ4GDF2PBWTPE5K7NCQ7V8Q,542,afd6f310652ccbba863113011743f1fdf784650c,savings,Account temporarily restricted due to security concerns,4/17/2024,3456.68
+01JAQ4GDF2ATRWKZKNDD3V86PB,543,958eba899d000575edb3fc04aa11c66f85eafcc0,credit,Account temporarily restricted due to security concerns,11/23/2023,3311.86
+01JAQ4GDF3S89KTPC0G4H36KQD,544,f1d3e40ec8b6a947e852287e213b31c09944ea83,savings,Account temporarily restricted due to security concerns,1/24/2024,9354.06
+01JAQ4GDF3HABJBBXN0BRBXWE3,545,1663f4a1a21d5ae1e57f51d351a2e63a26e23a67,checking,Account temporarily restricted due to security concerns,10/10/2024,2583.39
+01JAQ4GDF4EG7WRMCERM4DYYHD,546,1cb18b7ee3fc08cd283b2304161fb47f962563af,investment,Account exceeded transaction limit,3/19/2024,3747.14
+01JAQ4GDF57T40G2SVCPZ9T7R2,547,943fb6c440888752ef4cf84bc9748183722ed7af,credit,Account exceeded transaction limit,3/21/2024,809.19
+01JAQ4GDF5C0VYETY6QJD9SRMV,548,34c3a935659da7940605b1e7fd087a8fbced2218,checking,Account under review for suspicious activity,2/14/2024,2073.43
+01JAQ4GDF6660M9C1PR63E4J0J,549,d449f2d10e7e3410aff8dd2f47cfd2c98205ca5f,savings,Account under review for suspicious activity,5/9/2024,8861.71
+01JAQ4GDF6GKXCRD3ZQTV90Y1G,550,3e179603f2f7063b10fb8d9a4aaef0f7d449a736,savings,Account under review for suspicious activity,10/14/2024,1355.87
+01JAQ4GDF7ZJB3YD1FGQ26DCQC,551,b6801cd69ce2589f95b814b73dfec855dd40064f,savings,Account under review for suspicious activity,5/16/2024,4911.7
+01JAQ4GDF7S7P4TT7TMRBDNBGW,552,66a48a9aa0eeb90e34efab40aa970c0b535f7888,credit,Account exceeded transaction limit,8/25/2024,31.2
+01JAQ4GDF8ZZCSPMK9XJP8KE55,553,e615eea0b4163915dfb84259af96e146691fb7c5,checking,Account temporarily restricted due to security concerns,7/16/2024,8959.68
+01JAQ4GDF8Z29N7DQZZWGE8JG2,554,cf9edd1b47a48a068a3acb19e730d51aa3bfe52b,checking,Account under review for suspicious activity,9/28/2024,6869.15
+01JAQ4GDF9SV856MMV0A6Y92Y7,555,79856de9c1b9eb680d73034f40fbdebbaafa0783,savings,Account exceeded transaction limit,10/7/2024,2210.24
+01JAQ4GDF90ZVS9HRQ55DFRHDH,556,2170bfea2e7dff53b143c522d724bdd0d7f98ec9,savings,Account exceeded transaction limit,7/29/2024,6098.53
+01JAQ4GDFAY9QJ2S4QY7223GSV,557,cbd3995c3a3af283da94f2b44a40a46ef6fd9fe9,credit,Account temporarily restricted due to security concerns,6/14/2024,7282.5
+01JAQ4GDFARD5Q6045N5FZ45BR,558,6ed2ce66e90e2c374d4c8cbecd6f5a6022ccc439,credit,Account exceeded transaction limit,4/27/2024,131.97
+01JAQ4GDFB6H6XAAZKEEYXGBWW,559,d71b4638b253e6af9d9917def9749887f5e2fcd6,savings,Account under review for suspicious activity,9/20/2024,8631.1
+01JAQ4GDFBGNCYYHNEMCFYNBR8,560,f5bca019d9fbfa91672983dd76e938669903cc8a,savings,Account exceeded transaction limit,2/23/2024,465.12
+01JAQ4GDFC21Y3Y6G8Z9XKPKH2,561,8601fd51ca8e8992dfa24ca42e63a7f21a7a34e1,credit,Account temporarily restricted due to security concerns,9/15/2024,2687.92
+01JAQ4GDFDW5FTQNMGCWEAAZXV,562,2deba84879a5610a915cef866768da33e7211683,checking,Account exceeded transaction limit,11/19/2023,7441.29
+01JAQ4GDFDHCCJT5GEBXE05NWP,563,facecfd0ec7200d0f0baf669ce4225c686212537,investment,Account exceeded transaction limit,8/6/2024,9861.6
+01JAQ4GDFE05VE1K5Y47SFV0WF,564,f6211aaaffdc4d873dba4b9a27006ec00598126a,investment,Account temporarily restricted due to security concerns,7/15/2024,2931.22
+01JAQ4GDFE90MEC3K6TDB7975Y,565,a066b4607c7eea861e11f1be7d13b9637fb8faab,credit,Account under review for suspicious activity,7/16/2024,3766.05
+01JAQ4GDFF67EWDGPYEM2HKKDV,566,ec5188bacddebafb1c4766ee74d39098c248c242,investment,Account exceeded transaction limit,4/12/2024,7424.82
+01JAQ4GDFFM3XS3Q29CQDCM84J,567,af9f398156aec70ac9b194fec92af473d4ff13c1,investment,Account under review for suspicious activity,9/25/2024,9343.93
+01JAQ4GDFGRDW4F28EHMRQ0X22,568,b19662ea7939667930125b83796d02a0c8a0116e,savings,Account temporarily restricted due to security concerns,6/4/2024,9502.42
+01JAQ4GDFG5YZRBDX7028YKC47,569,55770acf48c259afa75cf90f2ee2cb6716e3b711,credit,Account under review for suspicious activity,6/23/2024,55.64
+01JAQ4GDFHVFNXGG8N285R4B4K,570,e43ba5927e137b0f9deb29671f2d084262761787,savings,Account temporarily restricted due to security concerns,4/1/2024,3173.97
+01JAQ4GDFH5JZ2F7TPJP9PT1DX,571,bc7f49d719be54d28932edcdb516b0f579b31b01,savings,Account temporarily restricted due to security concerns,8/10/2024,446.12
+01JAQ4GDFJ6PPSBWXGVGXTNCD2,572,04402d64f3a973bde7d24f8794c8cd6014aacb52,credit,Account under review for suspicious activity,5/19/2024,2249.05
+01JAQ4GDFJNR8VFR7HSKQ9AYDV,573,cbea7a3f7d907d7065c2c7dd5112e4bb82617a99,savings,Account temporarily restricted due to security concerns,7/8/2024,2679.77
+01JAQ4GDFKGGT5REQ69QY6Y38R,574,af6f8d00b4e37aa507f5332693712b46fecc9ec2,investment,Account exceeded transaction limit,10/18/2024,7353.19
+01JAQ4GDFK2RVK5AV872CFDWEH,575,bcc95863f2df69491e9ff063121c106f8716d124,savings,Account exceeded transaction limit,7/5/2024,1209.55
+01JAQ4GDFMNFMRRSE0MRWD1429,576,eea00a191e003f8f7c47288538be5351f5f47347,checking,Account temporarily restricted due to security concerns,7/28/2024,7649.03
+01JAQ4GDFM6ENESDRNTJ5XMFH5,577,47d1e3766a6a47e1d7147da3ec14761366d48d2c,checking,Account under review for suspicious activity,5/4/2024,2376.79
+01JAQ4GDFNW5FH5VY34M1XRTAB,578,78adf11ecc45af66f074ef3ccc8b3c9c61254a87,checking,Account exceeded transaction limit,5/5/2024,7262.81
+01JAQ4GDFP5CDY4FT0VRX9G7Q4,579,00d3540e8394be6caa7cc2186634da39ac41fca9,checking,Account exceeded transaction limit,4/20/2024,2359.02
+01JAQ4GDFP65TSPDZHFGR9A98X,580,1a6badc52c90e462e7a58845e7a78c68a748c4fe,checking,Account exceeded transaction limit,8/1/2024,52.12
+01JAQ4GDFQT9BMMM04T6NBTC1Z,581,1734e1971efd8b35f4a04cd8cce6240304bc2fd4,investment,Account under review for suspicious activity,3/27/2024,8517.6
+01JAQ4GDFQRJ6HKAWGHNYWKK0E,582,3f08729d1db396abdbcb268a6449e94f1c2c21cd,investment,Account under review for suspicious activity,6/6/2024,2704.2
+01JAQ4GDFR5ZT4K469NBKMF1H1,583,8caebaf13f8d3891f8608cb0c85a6baad548fd1b,savings,Account exceeded transaction limit,12/29/2023,1720.41
+01JAQ4GDFRCYFJ0XWJ772XX6D6,584,582c4f1f74eb5737775dec2ba1869cf80ead9daf,checking,Account temporarily restricted due to security concerns,10/6/2024,5227.86
+01JAQ4GDFSNYAP6ZJ9G82N0C44,585,0a5b8de4b2a088a40f10749237684e2cd2ae9a8a,credit,Account exceeded transaction limit,7/15/2024,6657.24
+01JAQ4GDFS1ES3D1G6GQCVVJRX,586,1ea677f0b10b5e9357e1007193e752a866711f74,checking,Account under review for suspicious activity,7/1/2024,4031.69
+01JAQ4GDFTV771FTE2ZSVWE07J,587,edb400225a9bdfe42a0e64c2244ae39cac7d8cbf,credit,Account exceeded transaction limit,12/17/2023,3012.55
+01JAQ4GDFTHN9VRBHSBHQA8XS3,588,948814bfe46621d08b3af96048669e9ad7f2a72b,investment,Account temporarily restricted due to security concerns,8/6/2024,3724.85
+01JAQ4GDFVT43SCH0S9A0FNK3A,589,a635e0d13b2b40dbdca5d5a86278a041e0578f63,savings,Account temporarily restricted due to security concerns,4/10/2024,8449.34
+01JAQ4GDFVRG2BBFFVNP4814Q0,590,29ddfe2db0545504fb22921514f998f03b0d9134,checking,Account under review for suspicious activity,7/18/2024,6396.71
+01JAQ4GDFWCKBT4FP7PYETXDS1,591,c36b0be1e12a9e2a16fd56a4151e5a5dd08fcc28,savings,Account exceeded transaction limit,9/10/2024,7183.23
+01JAQ4GDFXXGSWR9JBYSY6KP4T,592,dba297c48e4f3970c5e68f68777d21239fd8fded,credit,Account exceeded transaction limit,9/18/2024,5390.03
+01JAQ4GDFX97F7EQCT71WWW056,593,66129c3e4b4a984672ce2b5ec4a585818ac612fa,investment,Account exceeded transaction limit,10/5/2024,335.25
+01JAQ4GDFYX4XH8Y54JQRG5KS8,594,fd03dc979f58ca13d6a2899ac6f2353a143f9be6,investment,Account under review for suspicious activity,8/21/2024,8321.67
+01JAQ4GDFYA9GGMNFNND9XZQM3,595,fcad86f2ee4470fb82bcc51c2261d36b5b537e95,investment,Account exceeded transaction limit,1/31/2024,2572.5
+01JAQ4GDFZK5AEFG6AVSP4986P,596,bc14a6f5dcfc6168baf79e610934bdb82e34edfd,checking,Account temporarily restricted due to security concerns,2/11/2024,2604.41
+01JAQ4GDFZF68PQK1C1DJ5HCCE,597,f30b126bd5e1ccdee15e15e56c0d88c4c8d44a2c,credit,Account temporarily restricted due to security concerns,11/7/2023,7049.92
+01JAQ4GDG08PHYADYFSVWAK69R,598,65817dadecc29083705e081928836c9534a0875b,savings,Account temporarily restricted due to security concerns,4/23/2024,3845.7
+01JAQ4GDG0904CRET0XRZ3JASA,599,f9765dca460bfd45b7e1a2213fe49fcd7d57bce0,credit,Account temporarily restricted due to security concerns,10/15/2024,7173.61
+01JAQ4GDG1TA31F1PEE8HTTEGD,600,2c1b69845b2ba604af1d0b94dc428c9595ec8cbb,credit,Account exceeded transaction limit,5/20/2024,6692.47
+01JAQ4GDG18616KY8F85SPFGYK,601,00aaa0a2a9e49377390ad684e9a7e732d9369b62,investment,Account under review for suspicious activity,1/21/2024,361.5
+01JAQ4GDG2EJXF539YHVDS6N02,602,94a0a337df7e98553ae3e54fcf824f7a6e6f4fed,checking,Account temporarily restricted due to security concerns,8/22/2024,7640.27
+01JAQ4GDG2MVM0YYEF771ZW1F7,603,61fe052b109b69a91bbbb043ea45c71493780490,checking,Account temporarily restricted due to security concerns,12/30/2023,1567.84
+01JAQ4GDG3X8YEWFYZKBT1Q7SF,604,9ec1c85a619b080a0e099f9c52183f2e44c2b6b8,credit,Account under review for suspicious activity,6/4/2024,5850.33
+01JAQ4GDG3Z028CYSVRPSVNMW7,605,fe36283f0bc07e04d7fd9ccb34542f711dfd0857,credit,Account under review for suspicious activity,9/6/2024,7906.2
+01JAQ4GDG4H906X0JA7SEVEBNS,606,a5582a116fa66efbbd15c1789b027fea0e990c3b,investment,Account under review for suspicious activity,2/25/2024,5969.27
+01JAQ4GDG4FBPREMS8EC3W4Z9S,607,174642e91772586569f4f48b1709977db18feef7,checking,Account exceeded transaction limit,1/29/2024,647.73
+01JAQ4GDG5V8ZENNRCVBFHR21B,608,cd4670adf1a7cb7f86f710616933d01100701d2c,investment,Account exceeded transaction limit,12/24/2023,7221.88
+01JAQ4GDG6WN51TB18EX0CW3ZG,609,b9521d9ce82b960a830b7c5569c3e3dff6430931,credit,Account under review for suspicious activity,8/20/2024,1549.85
+01JAQ4GDG6SEZ5EPY1Z9CV6ZQN,610,d0d588505c44d9c3e61df33527f8417ac7a5b27b,credit,Account under review for suspicious activity,4/16/2024,8832.51
+01JAQ4GDG7RWJWE1XH7V715H6S,611,158eb52e4b1ee126a27d626c9dbbb4d3a12f7b95,credit,Account under review for suspicious activity,12/19/2023,5219.95
+01JAQ4GDG758ZZTWZ14FBT9744,612,e5f60c09bd8aee3ac954179faa457cc9d1e45100,credit,Account under review for suspicious activity,1/16/2024,5153.97
+01JAQ4GDG8D0VGYMAJRM7M51R8,613,e5c3d6c8fa724783cbad999bbd5f2dc6cf103c41,savings,Account under review for suspicious activity,3/18/2024,9032.27
+01JAQ4GDG85TNY5QFDZGD2NW7E,614,41d27565773185a566e5137d5a7c52e05d8e8098,savings,Account exceeded transaction limit,12/7/2023,549.32
+01JAQ4GDG9TMQX7KEH47N637PE,615,51395bf9e2ace608d22ec6a573ec9a2322a6abe0,savings,Account under review for suspicious activity,2/22/2024,9332.22
+01JAQ4GDGAZ56MVM5XH5FPEYTQ,616,2bacdf707fdcb0924e5a675b4854ad4197730558,investment,Account under review for suspicious activity,12/29/2023,3864.85
+01JAQ4GDGA0C9G9AP5Q44F9002,617,d576334326794b109363997c4d76090185cdc37a,savings,Account temporarily restricted due to security concerns,12/27/2023,7471.39
+01JAQ4GDGB3D21G7X46BS6JCR1,618,7affa8d3939a220f7b94f8156e6e0d6147cc5233,checking,Account temporarily restricted due to security concerns,8/18/2024,5046.43
+01JAQ4GDGB3GGDE63FAZTDFX3H,619,e6abb8190b0c032e8216b65a7925ad8aba68250a,savings,Account exceeded transaction limit,8/29/2024,3542.0
+01JAQ4GDGCHH1AAHR9QWA2TCZM,620,ef167f5e38f7b37e73ac2286f17b454b8157f7ee,savings,Account temporarily restricted due to security concerns,6/1/2024,3050.57
+01JAQ4GDGCGKCTXR867AQQ2P25,621,e472e37508f638fe8bcf157e94727e100bf1c8f8,credit,Account temporarily restricted due to security concerns,2/23/2024,8763.98
+01JAQ4GDGDQQG3EH4045AP22V9,622,5c5aec8320fcd2624e882478ded735885770b809,checking,Account under review for suspicious activity,12/1/2023,1845.96
+01JAQ4GDGDFBTA6437CJ8RV48B,623,7132d7620dfb57030a7f92a052ad07adaac829b8,savings,Account exceeded transaction limit,1/18/2024,6726.62
+01JAQ4GDGESY9MZFBK2GPEF6W4,624,ed7df29cedc4ddb1bd8babb02293dcfac3a928c2,credit,Account temporarily restricted due to security concerns,12/8/2023,6130.85
+01JAQ4GDGEMQKCCX2YN34FBCD0,625,59859565a443a7101a22d97ecb5484aac56bde32,checking,Account exceeded transaction limit,6/3/2024,2619.72
+01JAQ4GDGFAM6SE3010BMZJZES,626,d401d73ed0c4bbd3982d90aa8a43e488611db57b,investment,Account under review for suspicious activity,7/1/2024,7756.05
+01JAQ4GDGFWHFP1JNG6RHX1KBJ,627,1a7f6763ed053ac1ed35324bf6de841a866802fb,savings,Account temporarily restricted due to security concerns,4/22/2024,8489.73
+01JAQ4GDGGDPG3WSSYZMKVJDX5,628,dcbb3ae2a311a469a4cb08a77da4a5103b7d1a3b,checking,Account temporarily restricted due to security concerns,8/1/2024,5061.1
+01JAQ4GDGG8NPGV5FYJ9BW0BMK,629,324a29fa50d20cf804153dac29f44b0c3426d436,credit,Account exceeded transaction limit,2/1/2024,7524.93
+01JAQ4GDGH96GZT6RX3PA045HA,630,65fb0f2120e0c035a5198edb29dd9aa259fa4a30,investment,Account under review for suspicious activity,1/30/2024,6879.27
+01JAQ4GDGHD043YD9ZSS9HQ1VM,631,f1879a9293504dfcfce24a9a986a9ca5da5f3255,checking,Account exceeded transaction limit,6/16/2024,4153.38
+01JAQ4GDGJS5RCETTN7RNBX7M1,632,b913964abd6b0e90d41a0f6bc8990f24d81f3fea,credit,Account under review for suspicious activity,6/22/2024,1149.21
+01JAQ4GDGJ5CKRPPP8MB408ASS,633,9b65846a17f391d504a255c48aef760660ece830,credit,Account exceeded transaction limit,7/24/2024,8019.98
+01JAQ4GDGK9WJQ7VGV55N4TYGA,634,70ffe0fd66d3e2315b521a696ff766a0373a9a41,credit,Account under review for suspicious activity,2/9/2024,289.13
+01JAQ4GDGMT66HNVK5PKW9BR6A,635,be9fdacbbfba52e1a39912a9906d4fb7e460efb3,investment,Account under review for suspicious activity,1/2/2024,5539.87
+01JAQ4GDGMR877EJ570YA28XDD,636,e4a7b3a2f8cd16a734f49122b797d72442567a63,savings,Account under review for suspicious activity,2/13/2024,3759.9
+01JAQ4GDGNT3B29QGC41RQQ32D,637,3d405eca8d4db034c26fcc3ff1d3c23e6167d41f,savings,Account exceeded transaction limit,2/2/2024,8274.41
+01JAQ4GDGN220YFAN6QT8RSXKE,638,0bc55381cf388abc4fdb587cc78fa7716987a22b,investment,Account under review for suspicious activity,9/14/2024,9384.34
+01JAQ4GDGPBQV17KZWCTFZCEQP,639,c65e72afb5a265866097e4ae7cdd5fc26967611c,checking,Account exceeded transaction limit,8/12/2024,1223.28
+01JAQ4GDGP58R488N9345TPT5W,640,236b3b2779d383e6baec5774087320bd7b36826a,checking,Account under review for suspicious activity,5/17/2024,1643.03
+01JAQ4GDGQDHT39E2CHV5BTTZQ,641,b2aaec0db30870d4ac01a44047dfa81e44b88c22,checking,Account exceeded transaction limit,7/1/2024,740.32
+01JAQ4GDGQBA7FQQYHN474G7W3,642,7052bdf03aa971953fb3d680ad0a57c9eec01718,credit,Account temporarily restricted due to security concerns,11/23/2023,2799.12
+01JAQ4GDGR8X21C2YHZ4M0QYFW,643,770657b9a398c35f594529a67d52be924dc7fbc7,savings,Account under review for suspicious activity,12/5/2023,1598.64
+01JAQ4GDGRX2H22HEGZR83NS8Z,644,1aaee21da4c09ef898c39c2dfe6d006c95e47e43,checking,Account temporarily restricted due to security concerns,7/12/2024,9500.78
+01JAQ4GDGSXQAEP7G5R7YQX5R0,645,75c0fbb9b3e8a21c99e10d5d259b70ad0870b2f4,checking,Account under review for suspicious activity,12/7/2023,8601.07
+01JAQ4GDGSSBQD9AYRZ16A7ZMB,646,4b6523194383b7daa34dee4174a9bc5324464a00,credit,Account exceeded transaction limit,4/12/2024,4234.1
+01JAQ4GDGT4BXNDSPJ35G1ZMVZ,647,23add059e091226905c7fa60d4ef8d57b543ff39,credit,Account under review for suspicious activity,2/11/2024,2628.62
+01JAQ4GDGTJ05QVKHZ3CJ99EE7,648,0c89a3847992a6e846856de797eb3ceafb6cb9cd,checking,Account under review for suspicious activity,1/6/2024,476.72
+01JAQ4GDGX9Z866NGFBBH8ZA2Z,649,3f1502e4b270aeb91003d85f467e99b146663f0c,investment,Account under review for suspicious activity,9/22/2024,2198.69
+01JAQ4GDGYE3E0NQ5E1SBACPP0,650,a79d6a4e7a467774b612a30c25d63ca19fdfe406,credit,Account exceeded transaction limit,12/7/2023,8855.42
+01JAQ4GDGYDTEWDBFB6QMW6BX4,651,6b74344dfc19515ee59eb8880faf17df134e8522,savings,Account exceeded transaction limit,10/30/2023,1408.4
+01JAQ4GDGZBXGZV6KAWHY89MB5,652,87c47b72b379599730253d166041beabcd77db7d,investment,Account under review for suspicious activity,7/27/2024,4239.1
+01JAQ4GDGZJTHWDJGV173RFFSA,653,47a1c14514935f3364a0851ae4109329098f92ed,investment,Account temporarily restricted due to security concerns,8/1/2024,9298.92
+01JAQ4GDH0M228249Z3HFYC0QM,654,c42f0bb41bc51aad36e9c4473a8c5c60fd9041db,checking,Account under review for suspicious activity,5/27/2024,4118.55
+01JAQ4GDH0GD5A46KVW2RYYE3B,655,d521eaa44024fb4e014a485af6973f14ef883ef6,savings,Account under review for suspicious activity,12/25/2023,9473.11
+01JAQ4GDH127QW7A4SWAK5VVGP,656,256e163c80cf33a45843489c437be57a758d33c1,investment,Account temporarily restricted due to security concerns,12/21/2023,4060.71
+01JAQ4GDH1EEW0XD8KEMKZM5M5,657,fb9f6bd67af8572f539dfe24d1a14b96bd6f484c,credit,Account under review for suspicious activity,11/29/2023,3416.67
+01JAQ4GDH2FAFJQK5HSXTWTBQ9,658,5fa8763cdbaebd3a568d7748cca47755ae5c0756,savings,Account exceeded transaction limit,1/1/2024,3290.95
+01JAQ4GDH35M7STNXZV9VEAS2S,659,c9fc5bc8cf411e18da095c3db91d71394785b27d,investment,Account under review for suspicious activity,2/4/2024,2331.24
+01JAQ4GDH3Q1SQK51GRB219SMD,660,f65c1f032b81e97d64e25754c03d231ddd30faf1,credit,Account exceeded transaction limit,9/12/2024,3685.07
+01JAQ4GDH42N4FS8CS0MG1D5R5,661,b426731ab711da9b195d8e4bd1dcf3d0b12d2920,savings,Account exceeded transaction limit,10/18/2024,4171.1
+01JAQ4GDH4M633MK169Q1HY2YB,662,ce17c58fcb0d8862c18de694e301a70bc7cc6fdd,savings,Account exceeded transaction limit,6/2/2024,7027.81
+01JAQ4GDH5M7V7J79SG22G3MF0,663,0fa048af55870e543a51c91d32a86d23b3df2c81,savings,Account temporarily restricted due to security concerns,7/9/2024,2687.13
+01JAQ4GDH5GVEFNCVBN6P4MHFW,664,cd0cc67524b9d98980ade5324974cef9fbc7cee2,investment,Account temporarily restricted due to security concerns,12/23/2023,2465.84
+01JAQ4GDH6XEM2WKNPE9G4WWBV,665,065cb4e6d6c576818bf7b1cdd8b2c422b4e0e87a,credit,Account under review for suspicious activity,5/18/2024,3914.27
+01JAQ4GDH6VN6YHX9B9TZFDS5M,666,219d392217a60a2a443cbfaeb1232754761bd1a0,savings,Account exceeded transaction limit,4/8/2024,9760.03
+01JAQ4GDH7560V6ZDDPW7D9D9N,667,c6be30356af4c0f6141afbc302f775f4e87ab421,credit,Account exceeded transaction limit,4/29/2024,2267.71
+01JAQ4GDH8HVZH5VAVVQT32JS4,668,241d5d87597def059f5ab7a0e9853782024d223e,checking,Account exceeded transaction limit,7/26/2024,5463.16
+01JAQ4GDH9PXBJR1RTKNFWMZ9E,669,932cbb5f1fc7a61b6499d970f95aa3543ccc3ba6,checking,Account exceeded transaction limit,10/13/2024,1106.62
+01JAQ4GDH9YPGE8FKSX2XT71P0,670,8619b6c2210235a09907c24985e0db18699018cd,investment,Account temporarily restricted due to security concerns,12/24/2023,4877.08
+01JAQ4GDHA8WD4H94EQ9Y6FNCH,671,d8383f11f60a249a8df361f909b92dd32646cc86,savings,Account exceeded transaction limit,10/6/2024,7314.55
+01JAQ4GDHARVPEBFB1ZMA8BCRM,672,2e32582a524c2eb2dcf339d43568e65aeb59cd91,savings,Account under review for suspicious activity,5/1/2024,5794.42
+01JAQ4GDHB0Y1FVCN5BHC1MJQW,673,47efee564f34ddf56efcb0cdf9ee6d555cba2ab9,savings,Account exceeded transaction limit,10/27/2023,269.5
+01JAQ4GDHBDVQZ82HVWC9M0HN8,674,8b6af80a438919d10bc810bfe4cd1c0f984bd4ee,investment,Account exceeded transaction limit,7/29/2024,5408.86
+01JAQ4GDHCJTR9KFS6EQDP2WM2,675,f035799203a75f73344ecce041fe5360fca4f4a1,savings,Account exceeded transaction limit,10/19/2024,5092.8
+01JAQ4GDHDEM9AKVPFTG9PF0T4,676,20a569d278b464f6066f26a1d78a6adedb97103f,credit,Account temporarily restricted due to security concerns,3/28/2024,2369.57
+01JAQ4GDHEP5C3TE5T7727V3YY,677,6699b98f6dc1847508d062c3345094789463faca,investment,Account under review for suspicious activity,8/14/2024,5035.6
+01JAQ4GDHET5RZXD4HFWQ7W27Z,678,1be96706cf3346fd03fa8aa7e654c7cd3240362f,credit,Account exceeded transaction limit,10/21/2023,8938.58
+01JAQ4GDHFQQ8AW2E8D5WD5JZP,679,b3453a773c5dd6091c30dd409ddc61c78e50c8dd,checking,Account under review for suspicious activity,2/29/2024,25.21
+01JAQ4GDHGXM2SEKZCM3RGR25C,680,b38b9c85e77d86a45a4a353d4396ae3d0682e03a,credit,Account temporarily restricted due to security concerns,12/25/2023,2501.48
+01JAQ4GDHGGTRK3EQ9KEFWJZ81,681,e560eee914602d5c26e0139d351cb93af57aa5c2,checking,Account exceeded transaction limit,12/15/2023,3714.15
+01JAQ4GDHHVRET9ASV5Z83ZPPP,682,d9d2eb0c2acbbd146a05ef8d471f56c90081938e,checking,Account under review for suspicious activity,12/8/2023,9880.86
+01JAQ4GDHHMB3B67A330VF70RK,683,c722d244693eb3aa8106513668e6a305f69907c8,credit,Account temporarily restricted due to security concerns,9/1/2024,362.99
+01JAQ4GDHJ7E5V092363VKGN3Y,684,d8e666d5701937e5e1c31dacae09105c8ee1037f,checking,Account temporarily restricted due to security concerns,12/3/2023,3799.75
+01JAQ4GDHJPRDDA64QA031WXSX,685,55572e44988ab272ece00c71dcbe9fb9e671e3ba,investment,Account exceeded transaction limit,1/6/2024,1865.49
+01JAQ4GDHKSW6P6VQA1G8R2N11,686,52d9d26e10270d3d526bfa15aee13bbcc7784d1f,credit,Account exceeded transaction limit,3/21/2024,7343.44
+01JAQ4GDHKAZRCF7EXPA56SCQC,687,422c74617f1bcb828dcf54262aac10e4b56e64f3,checking,Account under review for suspicious activity,7/31/2024,59.23
+01JAQ4GDHMB1SWS1WN992F1YSP,688,9cf7b8d2f85b2da37d6a9827a3e393c778e69d70,credit,Account under review for suspicious activity,8/25/2024,9853.87
+01JAQ4GDHMBAZ0JQF12X48H74J,689,9015e9171c6ceb14b3c67e32762b7882152a36bb,credit,Account under review for suspicious activity,10/11/2024,2791.68
+01JAQ4GDHNA7M1ZCKXJMYDAWA7,690,f230fe9225efd044e06bb8500bc6c89b4dc0d82d,investment,Account exceeded transaction limit,6/11/2024,2485.61
+01JAQ4GDHPF7KGNN7FHMR5JZNX,691,c4a3427ec85a78852a8682bed6e8312a90fc8e29,savings,Account under review for suspicious activity,9/6/2024,4696.68
+01JAQ4GDHPP2S7PYYY9HBV5KZR,692,b65ceab3641e7e9ac55b8d04dbc8409b909a657e,checking,Account exceeded transaction limit,8/3/2024,6762.33
+01JAQ4GDHQKHBJYKX6W8QTWBD8,693,6d10e32705f517ad325924418975cc3eeeb3e37c,savings,Account under review for suspicious activity,12/23/2023,4758.91
+01JAQ4GDHQZF6XRDRV8KFP9KF5,694,0658edc987e64b407af4cb655e06cee0779f076a,credit,Account exceeded transaction limit,6/13/2024,8474.42
+01JAQ4GDHR7C8X6KKXRWH3DAKQ,695,60e76cf77bd4dc49843f7f10e66a02f485e1d095,investment,Account exceeded transaction limit,2/22/2024,6303.96
+01JAQ4GDHRVB3J3WQE0S61BCZW,696,f03d579f06246674b8900ba26d4b3132f1f5b2d6,savings,Account temporarily restricted due to security concerns,9/14/2024,322.22
+01JAQ4GDHSG529701JF0PWM1JV,697,686052411a946d8bf78f22e3fa4892cd06adba95,credit,Account temporarily restricted due to security concerns,12/11/2023,7397.04
+01JAQ4GDHSJJSXVSJ15TPX7Z8S,698,341970a20adbbaf76f38f60f6cb76d77f2bcdb21,investment,Account exceeded transaction limit,11/23/2023,9704.18
+01JAQ4GDHTFW5Y7H4EZR10DWCD,699,60476c75020117173a84e51ba65eece0a8ae1aeb,checking,Account under review for suspicious activity,9/19/2024,5435.59
+01JAQ4GDHTPZ68C81YBVYQFDBM,700,4bc046ef09b36cc5f5fd89df3573e4bf2fa00cca,investment,Account exceeded transaction limit,1/2/2024,8345.42
+01JAQ4GDHVCTBG508S9NE4EHHY,701,578c3e7a49ca008ff1249fe99fedde0078452ad0,checking,Account exceeded transaction limit,5/26/2024,3398.33
+01JAQ4GDHWCQYWD4BGD22HXFJ9,702,acd1ab19ea6973a5849476befe810803ceb4082b,credit,Account exceeded transaction limit,3/6/2024,8337.57
+01JAQ4GDHW9X8V97ZC749AE9VA,703,51957c56aa49d90a29b4562e25670d1bf2462e78,credit,Account exceeded transaction limit,4/19/2024,6343.5
+01JAQ4GDHXBPNNZ5C6AW2YRQFC,704,6353dab19b46c2bbb777889edd42c070cd67e490,credit,Account exceeded transaction limit,2/4/2024,7217.79
+01JAQ4GDHX1SR2YESFQPVS7QVZ,705,a3ea59e269b58513c31d9a0a055241b36163713c,credit,Account exceeded transaction limit,12/17/2023,1559.03
+01JAQ4GDHYW0VC7WYBS16ZKQER,706,e99f1bf92a37ed3236add8ea07869d8d3a0800e9,investment,Account under review for suspicious activity,8/13/2024,6045.87
+01JAQ4GDHYF4Z7PF0AFJJT82GN,707,98229878430c0a82dd6e89d0b1a2760cabbddc9f,credit,Account exceeded transaction limit,3/18/2024,5018.64
+01JAQ4GDHZ68N10FY4TV9JZEYH,708,d8568e47a64028c09f3fb42203b7d2cd06ef680f,credit,Account temporarily restricted due to security concerns,7/9/2024,9585.16
+01JAQ4GDHZ63KC93Q0HZZTK61J,709,58a4d7dd7d6d4a03811f5e49e8bb0c995cfa7dc9,investment,Account exceeded transaction limit,3/24/2024,332.47
+01JAQ4GDJ0535YDBH037R1AMGJ,710,a85d815bb3bce176f3de541ce445c60f6caea591,savings,Account exceeded transaction limit,10/13/2024,8769.38
+01JAQ4GDJ06JQAR666CHJVSCF5,711,1b7b79877907a3cb2602b94dc4d444eadfe70036,investment,Account under review for suspicious activity,4/17/2024,8250.68
+01JAQ4GDJ1TCVRS7T3BF37SF7K,712,9475479d6a56755389fba1d0271034c22bb5f0c1,investment,Account exceeded transaction limit,9/2/2024,9350.48
+01JAQ4GDJ2JXXC5HR4JWHVPB3B,713,e66e309e725cf3992b4b29244553f111f42bffa0,credit,Account under review for suspicious activity,4/14/2024,3693.93
+01JAQ4GDJ2YWV4W2QDZG77B9ZH,714,373d6fe8c8660afdba13ccd33502ec1fdac19747,investment,Account under review for suspicious activity,8/11/2024,7819.29
+01JAQ4GDJ3F2AZ384401D8F66N,715,49d263f2fec3b09f4c976f99185003ac44b0eafc,checking,Account exceeded transaction limit,11/9/2023,6990.86
+01JAQ4GDJ3FFCNA983ZF84JFH0,716,cc2877169ed7e8444590c389bcc31ed54cbddb94,checking,Account exceeded transaction limit,6/17/2024,6428.87
+01JAQ4GDJ4Y17C8HVCK8C3MK11,717,8e74760b11caddf2c4c4f8aa0936a2bd963b371f,credit,Account exceeded transaction limit,2/4/2024,7351.15
+01JAQ4GDJ4K3X7AJJ5TGY6RYX7,718,349be9f11a750f17cfb36bc6ab1dff0610bbe3b1,checking,Account temporarily restricted due to security concerns,8/26/2024,3969.16
+01JAQ4GDJ5KAE5CZ68EJW0W8QX,719,e68a0c68373af0b0aaa269ea7b8fa1c9ea52951c,investment,Account exceeded transaction limit,11/13/2023,3202.62
+01JAQ4GDJ5D0XTRBVDGVAQH7V4,720,56820309aeac94787b2e68906f9a4ae4e81f3641,investment,Account under review for suspicious activity,9/8/2024,1893.09
+01JAQ4GDJ6CH9D4GVHMRB64WH7,721,d32ba87b4dcc8a4073f564a24f016d80e2901bc3,investment,Account under review for suspicious activity,1/10/2024,1300.52
+01JAQ4GDJ64RQWHZCX370FVBBC,722,b19baf3bd84005263fef3455bbd71cc88be9931a,investment,Account exceeded transaction limit,7/16/2024,7885.85
+01JAQ4GDJ73CJTS3D4BEEZYFMW,723,e4d84bf7e40b16c25aa970e1a3b90aa22aa2dc18,credit,Account temporarily restricted due to security concerns,10/21/2023,3809.01
+01JAQ4GDJ8W8SYF3NG90N8H7D1,724,a80ff3a8f8b3798f4d36247d0f9bbc6615ee3f63,savings,Account exceeded transaction limit,7/8/2024,2363.6
+01JAQ4GDJ8B5CXM9TCZ3SF8S2Y,725,937887aa5cde43c71c9c144e808dd45f3a7e141a,checking,Account under review for suspicious activity,4/10/2024,1152.94
+01JAQ4GDJ982VWVC1H61X25NBC,726,2ec42f6074283f59eaacceb0cabc1df4c02da794,investment,Account exceeded transaction limit,8/13/2024,4871.81
+01JAQ4GDJ9PWBAQB72JS9NBH91,727,f734b752b84347ce3ac0d30b5a01012a7626411d,savings,Account exceeded transaction limit,9/4/2024,8359.28
+01JAQ4GDJAVM0XQMM39NJ9DWZ9,728,474d86f9eda897ffbe870970bde3d96b1b102ea5,checking,Account exceeded transaction limit,4/30/2024,9683.28
+01JAQ4GDJAK6YP6JH68M0VG18P,729,8ad07ae0d66717fec70ec783388c7b1f7e959ab9,investment,Account under review for suspicious activity,8/7/2024,5119.09
+01JAQ4GDJBCJGNMSHJ813G2GFG,730,53f7f1923f952f0289894695166f7929b415a608,checking,Account exceeded transaction limit,6/21/2024,9780.49
+01JAQ4GDJB9GWGMPMRJTMS43JZ,731,3afac38eadc1626abb20106f15a2bd5d9ecad68c,credit,Account under review for suspicious activity,8/27/2024,1218.61
+01JAQ4GDJCKNDQG6S2FKAC4XJK,732,e3281c13f20dbe35514f29ff5979e78bfab5a45a,checking,Account exceeded transaction limit,2/6/2024,4403.61
+01JAQ4GDJC69VD89GE0KZ58QNH,733,63e5db837a9e83d24ffa6d86fb8faf534060a07e,credit,Account under review for suspicious activity,4/18/2024,1250.28
+01JAQ4GDJD33CZ8MXQTNY6AK28,734,c2ee710851b0133b2de5ad32cf2b90b34123eab5,savings,Account under review for suspicious activity,6/8/2024,9412.88
+01JAQ4GDJETMMARQJ3QFXFVY02,735,366e8a6707c82f646f603d12e0a7abbd3c36a3ab,investment,Account under review for suspicious activity,10/15/2024,3223.06
+01JAQ4GDJEE4NH5GM5ZDFQW39B,736,d4b6dcdf104c5fa183d6b9580771142c239102ac,checking,Account under review for suspicious activity,11/17/2023,4334.88
+01JAQ4GDJF0C45AKF8ZTW7J38J,737,7095231b7d510879f141653b2af82e0aa6dfaa8c,investment,Account temporarily restricted due to security concerns,8/5/2024,1386.23
+01JAQ4GDJFSFAT0HDPHF9CAEK7,738,170693c57202e95a11e138ee6ba58920b16cd4d9,credit,Account exceeded transaction limit,7/9/2024,4656.54
+01JAQ4GDJGM3748SFAFGHR20DC,739,0b09eb5c94353dbf463a97ad1d55651ba5e78b4b,checking,Account under review for suspicious activity,2/12/2024,3062.91
+01JAQ4GDJG7GWJ4NAKB438RDYE,740,45ef77a7208d4ac90ac086ae7c960bb04614cb9a,checking,Account under review for suspicious activity,9/30/2024,8840.45
+01JAQ4GDJHYWBXZJP621JSD067,741,fd8869143d5e811f2c458a2cb7b0d0a68fd8b153,credit,Account under review for suspicious activity,3/30/2024,7317.0
+01JAQ4GDJH8WNH1EDPK1E2XTQV,742,838b614fc6ed860d9b8bc277262a472dd7082e31,credit,Account temporarily restricted due to security concerns,6/5/2024,782.46
+01JAQ4GDJJV7TG01S25X2PS8VE,743,5d2939407c5ae24aa8fc65283bc67fb197ec0b68,savings,Account exceeded transaction limit,3/2/2024,1086.88
+01JAQ4GDJJ47A453XH6VYQZE75,744,d9511637bc512f615b7c289fc4bfec11fb9fe884,investment,Account under review for suspicious activity,7/22/2024,8929.06
+01JAQ4GDJKMCH7HYSVTXQNGRG6,745,6d4c1414bfeb62e69a5f89a9b2329e79e530617c,checking,Account exceeded transaction limit,1/26/2024,6414.58
+01JAQ4GDJMYV38G3BN2S1EC52W,746,bd64bed3183578a3e318eab87bfa1e4bc1fda051,investment,Account exceeded transaction limit,1/5/2024,7930.18
+01JAQ4GDJMD4B34SPX8G864HN0,747,d4c5c85c5957cda0b6cbd291ecca2604d16c2c1f,investment,Account under review for suspicious activity,2/17/2024,4960.87
+01JAQ4GDJNSDNGWXNQQJN9Y37X,748,81226af5f926c25d2d2d7a0cf22fb2a73371a0f6,checking,Account temporarily restricted due to security concerns,10/24/2023,8041.87
+01JAQ4GDJNYSDNQGBK3A0856QC,749,14309b8f7c13dfdb064d21862b996aa607514c43,credit,Account temporarily restricted due to security concerns,4/3/2024,628.65
+01JAQ4GDJPWT8RHBY09BRPSRAJ,750,ff051507e63998c7f36d380255ec3badf520d6c5,investment,Account under review for suspicious activity,7/4/2024,5123.1
+01JAQ4GDJPJVK85PJ5J3RD3HS7,751,bf10fb8b13f0a6006d15a96158f2c1ce9335e243,credit,Account under review for suspicious activity,6/24/2024,7423.43
+01JAQ4GDJQCY6MGZ173DX7429Y,752,3e5488e4487c27361fb6d99681defb502f95f79b,investment,Account exceeded transaction limit,10/8/2024,2551.87
+01JAQ4GDJQ1H5K4RCDPH2S35RJ,753,ef055d4a0f417c25c4f805929016e58c499873e9,checking,Account temporarily restricted due to security concerns,8/30/2024,6058.8
+01JAQ4GDJRCA67WKKT6M29SEGQ,754,2209f5e8ff34d2fcb2e6146ca9d770b07e010e37,investment,Account exceeded transaction limit,3/4/2024,256.82
+01JAQ4GDJR5BAJT0QZQ2PW9EJP,755,01d8c32a327b758c4c9f71d008ab719393d20105,investment,Account exceeded transaction limit,4/16/2024,1537.53
+01JAQ4GDJSX0YMQXPE8VBVTXTR,756,1a50522afe74046524d6511ce48aa089c7b5503f,checking,Account temporarily restricted due to security concerns,8/24/2024,6545.18
+01JAQ4GDJS50ASE8T86NWRHWET,757,30d5420b1350587f9dfdfee574c3c571229893e6,credit,Account temporarily restricted due to security concerns,1/20/2024,2602.34
+01JAQ4GDJTN3D6HV2MFKVRE3HP,758,ff1ffb29be4e883d00dff22632f03f657516c8bb,investment,Account exceeded transaction limit,8/11/2024,4520.03
+01JAQ4GDJV070YCA3Y5TSEY2PF,759,2a93c4c034122bb5f3a396c011ae2aacc8be620f,savings,Account under review for suspicious activity,3/31/2024,8539.67
+01JAQ4GDJVCFQC7QERSPZBZN2F,760,02528ea32784007b6c0e080405e545fa3dacd1df,checking,Account temporarily restricted due to security concerns,11/20/2023,98.53
+01JAQ4GDJW4BJMVJ2GPYX35EB9,761,6eb1eda01debfefb9c7f8e6ef44ace995e8b59d9,checking,Account under review for suspicious activity,2/25/2024,2573.9
+01JAQ4GDJW8PJJDV3F3R86TYPR,762,09aace2523f89b34d8842978624b37a2561fa18c,checking,Account under review for suspicious activity,7/11/2024,2911.18
+01JAQ4GDJX7X50XG6M611NGF4T,763,da21c191c130105b52c2e4fe06eaf6fb28a6d8be,savings,Account exceeded transaction limit,12/27/2023,3912.6
+01JAQ4GDJXM2WXRHPBF9N626NP,764,2a092ebcd4806d1fa9ea377cee72bd02054003b3,investment,Account under review for suspicious activity,11/8/2023,1362.51
+01JAQ4GDJY171AJWEWS9VADYTV,765,f91e4e0a6591bd2a67fd1e78d9dbe442875429d2,credit,Account exceeded transaction limit,9/9/2024,8834.9
+01JAQ4GDJYY08EYZ77WWHFYH4V,766,49db0c6330f83badc91d2497c92de6d9a8b6ffa1,savings,Account under review for suspicious activity,9/8/2024,4567.4
+01JAQ4GDJZ0VSYZWK9VXNHDN17,767,197a80695ca8e89da966c2d7d7a5ba7f8868a664,savings,Account exceeded transaction limit,10/2/2024,9927.05
+01JAQ4GDJZSFKF1KSN14QD5JPH,768,174e0e744a9ac9ca94887be35edc9fe2823ede9a,savings,Account exceeded transaction limit,2/27/2024,3228.63
+01JAQ4GDK0P0SZQCT8PKSPSYHJ,769,4c83ffa6af5f7b00645404eac74c22a6083170ce,checking,Account exceeded transaction limit,4/9/2024,6591.77
+01JAQ4GDK1K3PN20P7B8BENH14,770,2aec4e281806935668db02ddffa55697a930adf4,savings,Account temporarily restricted due to security concerns,11/18/2023,2438.57
+01JAQ4GDK1KW7N7G5YJJH2ZCRY,771,102a794070c489de3ab46da974066c06aabdd141,checking,Account under review for suspicious activity,11/13/2023,2813.58
+01JAQ4GDK22A73S1KVZEMT2JXS,772,6b7947113f4ad7c37122a81021b439a09e0d95f9,savings,Account under review for suspicious activity,8/13/2024,8266.85
+01JAQ4GDK2QPB5S1EPMPDQPYNZ,773,a62dc42517efe78f4450d886048a7c8b90265538,savings,Account exceeded transaction limit,7/11/2024,6874.59
+01JAQ4GDK36M8PN06XCP7F7VSS,774,e83cddfab4e994f34220edd6c8029b8aee8f5930,savings,Account exceeded transaction limit,1/23/2024,8370.54
+01JAQ4GDK3A9QTCYZZRCWTZHC3,775,08c5ecdbce2862c0c5ee55b6bb53fccb92cc0420,investment,Account temporarily restricted due to security concerns,6/20/2024,8657.32
+01JAQ4GDK4EAHDG5YC0GDFAXBG,776,4a8c701294a37b0505f8ecfe43acd8147c334307,checking,Account exceeded transaction limit,8/18/2024,5466.63
+01JAQ4GDK44D1P8S35AF4V926G,777,1a9530aa8d75b424cd8194f94dd8bd6b2c1f5042,checking,Account under review for suspicious activity,1/30/2024,3880.6
+01JAQ4GDK5MQ1BSD9AZR7Z4R6X,778,8b164b30213034633831c1efe4245008f989fe42,checking,Account exceeded transaction limit,12/13/2023,6105.79
+01JAQ4GDK6RRZVKF0HPB7RTSBT,779,963f6c223b09c4f3517bb324d3e16bb17574c79a,savings,Account exceeded transaction limit,1/19/2024,5544.73
+01JAQ4GDK6FQAG3H7EMWN1K3VD,780,dd11ef571019194a7ad448b0fe4eaa73b19abffc,credit,Account exceeded transaction limit,12/22/2023,9923.64
+01JAQ4GDK7B0RR2V0NT70CRB20,781,f10b21872ff3f9156307ff1222c4c3f30f1df134,checking,Account under review for suspicious activity,7/14/2024,4764.68
+01JAQ4GDK72KCH00CES7J6ETCM,782,a5d167889915a79f1c5ecb340194fa4d9dc5f201,savings,Account exceeded transaction limit,11/9/2023,9374.19
+01JAQ4GDK8P6D6TR806Y2YVME7,783,f448cd27ecd592e6b95508a43f97cbf198295f2b,savings,Account exceeded transaction limit,11/24/2023,9996.27
+01JAQ4GDK8XGSRC5KWC75GR9CX,784,10e33534f3ac6e59a1409ea2651a7b78531bb8aa,credit,Account temporarily restricted due to security concerns,4/4/2024,9785.89
+01JAQ4GDK96J8S80GYZPTG1AXS,785,2ad9056745b5044bdd7772020a86ff8f4808241b,investment,Account temporarily restricted due to security concerns,4/18/2024,7814.52
+01JAQ4GDK90ZK7P9HG028TG3BN,786,65e68821efeb8f01654a718df86f3055d4702eb0,investment,Account under review for suspicious activity,2/7/2024,3533.86
+01JAQ4GDKAKTQX2QPXM8YQ1EBD,787,41fc736a955c4296a9532401031b4ecb568b16d3,credit,Account temporarily restricted due to security concerns,11/26/2023,3410.7
+01JAQ4GDKAYVHVH0W1QX055C4K,788,70aba841969303094c2ab9f8eac8f91382a74ded,savings,Account temporarily restricted due to security concerns,2/11/2024,1106.26
+01JAQ4GDKBZBV8TYW1GEEB6TQQ,789,846ab37a9757e31fc1be2dfb14221ce60086c40a,credit,Account temporarily restricted due to security concerns,3/14/2024,7769.4
+01JAQ4GDMTB096Q3JAXZQTB1GY,790,8dbd4d3e71ae34bf983920b884bd5fbe1cba2edf,savings,Account temporarily restricted due to security concerns,11/3/2023,9053.41
+01JAQ4GDMT3C6X0GTHKND8QP0T,791,fb6a839d09cd7d175328a6a56651316aac824d61,savings,Account temporarily restricted due to security concerns,11/7/2023,1999.56
+01JAQ4GDMVDKWC9ZW2YF630AND,792,b4e9dd1b3dfb885b20a0572cf479324145557caa,investment,Account under review for suspicious activity,3/19/2024,1604.59
+01JAQ4GDMW8X7CXP07HAVD8VHT,793,43afeec61264d7949b0311c06dd07361ba891b4c,checking,Account exceeded transaction limit,5/20/2024,9573.58
+01JAQ4GDMX6GKQ86SKDRJ937JA,794,844b8b36c62314a5a368cb0e3cc22a52e24df676,credit,Account exceeded transaction limit,8/1/2024,3355.36
+01JAQ4GDMXNRESS9Z1VH1290R2,795,c9dddd20f9caf8cffe1a1f7d9accaaf25debee0a,credit,Account temporarily restricted due to security concerns,8/2/2024,1377.58
+01JAQ4GDMY0HD005JDE4NSYBWB,796,143178161e4bf3a7f8fb3d9dd7a88d6797dc02c7,credit,Account under review for suspicious activity,1/30/2024,5892.6
+01JAQ4GDMYG8FNVWKX005RKT2K,797,a4ce3c9bd9cbd1eae0792874b821429d4181d66e,checking,Account temporarily restricted due to security concerns,3/15/2024,9977.77
+01JAQ4GDMZ3T259R28RWX29WNP,798,02e543723ee96592f131bbd8b552fda7af0bdc09,checking,Account under review for suspicious activity,5/1/2024,4661.79
+01JAQ4GDN0YBN5E1VXC1RWV4MJ,799,564623d34c22770667b6fb0f330e956b426ad212,credit,Account temporarily restricted due to security concerns,8/1/2024,8749.21
+01JAQ4GDN0V322C5BA282DDJ9N,800,f6c260a6bd690160764038a5a22af10121e255ba,checking,Account under review for suspicious activity,2/1/2024,6441.49
+01JAQ4GDN1CWA7FRC5VDGYJYF4,801,55b3273f3de01018cb9050bf3794f359d4cbee60,credit,Account under review for suspicious activity,5/5/2024,4251.25
+01JAQ4GDN2CF67GDB8SZMV539N,802,23cddd3e309a2ebbcc93174013607f6217fd62a3,checking,Account temporarily restricted due to security concerns,7/30/2024,3821.7
+01JAQ4GDN2GTCJD1XH59TNC21J,803,04cccea44433b6209e9a550532571cdc9d8020c0,checking,Account temporarily restricted due to security concerns,1/29/2024,2582.96
+01JAQ4GDN358MTVNRCCREY6G7W,804,2139ee25b503b85f437555d6b99a4dc0510e6ce9,investment,Account temporarily restricted due to security concerns,4/19/2024,5439.81
+01JAQ4GDN3ST7H1MYFKD88134A,805,b73c53eed9f5f464bdc92f9c3b303d36dc22199e,savings,Account under review for suspicious activity,11/11/2023,2306.62
+01JAQ4GDN4PWCWJTAZ5CHQWNRG,806,3eaf97e8a8b19e140fd5b3241211ad5406513c8b,investment,Account under review for suspicious activity,2/10/2024,9529.81
+01JAQ4GDN5AEYH9DM796GADD9F,807,7e5de31f6e32619f75fc37e3282e17f4eb04e7ea,credit,Account exceeded transaction limit,1/1/2024,6835.41
+01JAQ4GDN5JXMN5C86J0Q4F9FA,808,035ce9ec818ae651b614e8cc4530155f72f3e6c7,checking,Account exceeded transaction limit,4/4/2024,3655.5
+01JAQ4GDN6H3CVZ1RXSDPZ3PM5,809,6a183d45b6504b6f37e57d6f63307218e04ce7bd,investment,Account under review for suspicious activity,1/10/2024,5920.31
+01JAQ4GDN6FDKNE07WEHZZXBA6,810,9a740a4041c20c219caa8d00b5d132ffb1099c10,savings,Account under review for suspicious activity,8/14/2024,7904.35
+01JAQ4GDN7SCGB1FMXMED0W46V,811,b4c42c9d282b416c61e4be10d2978f9fb6b100ca,checking,Account temporarily restricted due to security concerns,11/28/2023,8179.23
+01JAQ4GDN82CHEVBWDYG23VCYR,812,634303fd9bf8ee1b8a7cb421ecd15b3ccbddae89,credit,Account under review for suspicious activity,4/6/2024,105.11
+01JAQ4GDN8WVDHAVNV5TY08YH9,813,ee04ba3e5a33bf5ae15b8202effe4eee77b2d2af,investment,Account under review for suspicious activity,8/25/2024,6388.83
+01JAQ4GDN9QT4746MC3VQDZKKZ,814,2ba86b4ede5440da4b2a92a46c3712be716b0dcf,checking,Account temporarily restricted due to security concerns,11/12/2023,5697.17
+01JAQ4GDN9MBC5QMBNGB4A75WS,815,8b7577541c3e81ef20e653d1bbc9650827a500a4,investment,Account under review for suspicious activity,9/28/2024,3306.8
+01JAQ4GDNADRTEEHKN5SSTE62A,816,be20f75c437248604584e98cd7c8cb916a3d5cfe,savings,Account exceeded transaction limit,4/30/2024,6159.39
+01JAQ4GDNB45KN593PFYRBYD0B,817,c6fac9e1bb788a20a8eea677de90ccbcb14daa51,savings,Account temporarily restricted due to security concerns,3/21/2024,9974.49
+01JAQ4GDNBV4686XKV37YSDJ24,818,02399999baf4bdc6f4f67bdf90b5cc9ad5806f42,investment,Account temporarily restricted due to security concerns,6/9/2024,5283.24
+01JAQ4GDNC3T7S5P2J6H96W2G8,819,c08d0a5534071236d4818490a22f968b7f19b685,credit,Account temporarily restricted due to security concerns,5/29/2024,3689.38
+01JAQ4GDNCMR5HF4W03EWA63E7,820,be2627d69c777222f6502eafd5fb147754fb1d08,savings,Account temporarily restricted due to security concerns,7/1/2024,1997.73
+01JAQ4GDND5QGPHE2E0F0CG718,821,4738774abfc632c5240ed66fa351b6540d5628af,savings,Account exceeded transaction limit,12/1/2023,4404.47
+01JAQ4GDNERMHE0EAJWYCZ3396,822,410338d1c9605bc62fa0f30ef642c10d789533a2,credit,Account under review for suspicious activity,9/29/2024,6374.91
+01JAQ4GDNEMMRY6P3RENMAMPHQ,823,3fa17d7a31a7cde3c484215dd70964d9df943d16,investment,Account exceeded transaction limit,7/26/2024,5674.81
+01JAQ4GDNFAY6HS8XJWQXRMZGR,824,8e518a375baf0fca1f2358f891ebd2e510dbdff9,credit,Account under review for suspicious activity,10/11/2024,7302.22
+01JAQ4GDNFAER8N99NTHKXQ547,825,3c2ab406f803c9b48cfae6c9cb4f88acab037845,credit,Account temporarily restricted due to security concerns,9/12/2024,4467.78
+01JAQ4GDNG0KK617CEYQH2ZQYM,826,3a700e3b41ab0a36382e9022c53dfbfb555cd901,checking,Account under review for suspicious activity,11/16/2023,595.55
+01JAQ4GDNHKBJTS6YRJ0SSMHZ9,827,33eb1f32c820f8a550fdc05e04284670dcdc0790,checking,Account under review for suspicious activity,7/18/2024,2141.73
+01JAQ4GDNH58KQEFTR7KKV2JRM,828,f4558be14cc84c7f9cefb265d0107108868a2a17,checking,Account under review for suspicious activity,1/4/2024,7551.74
+01JAQ4GDNJGTWA9BA37YC0AAQP,829,2afab8bf2526ae0337b03f78fa95b8f61da81e06,credit,Account exceeded transaction limit,7/22/2024,8667.79
+01JAQ4GDNKA973G7NGMKQ4MTQC,830,ad993169f59fbe6183cb1f198adec0ff44604958,credit,Account under review for suspicious activity,1/27/2024,2624.27
+01JAQ4GDNKWH0VCB154CWTMRKM,831,1c5af5274dd39072a6f748ae2e3a753f4d586594,investment,Account exceeded transaction limit,10/23/2023,712.44
+01JAQ4GDNM5E5DXS6A02N871WC,832,df251e2118692fea6bafb6a7d22f63b1b2507752,credit,Account under review for suspicious activity,7/3/2024,789.7
+01JAQ4GDNMWQ4PCM6283SPCB9A,833,c2abe8718fe66c830fbecd36c927aeb12cfa69e2,credit,Account exceeded transaction limit,7/21/2024,266.08
+01JAQ4GDNN0CTCWRG7ZVDGA34Q,834,f26d679a97c5bcde3b333aa12ab1bf57d135caa7,checking,Account exceeded transaction limit,12/28/2023,3550.75
+01JAQ4GDNPK1HZCZYV4JHJ0394,835,a9d52a3ec85c1ee225851675ec84f7f4642634d2,checking,Account exceeded transaction limit,8/6/2024,6970.49
+01JAQ4GDNP8302W8RRF0QPTZH7,836,3698605c19afd221a8eb9201c92070f113c948b6,savings,Account under review for suspicious activity,8/16/2024,7540.78
+01JAQ4GDNQP0JTABAWPZ2Q8YAP,837,35b1459a8bff34355cf610fd482a569b3e64f582,credit,Account under review for suspicious activity,8/13/2024,9496.33
+01JAQ4GDNQVJJM90HW8DBPWZN2,838,065476e044237e6effaa41c9a53fbfc2119cbe89,credit,Account under review for suspicious activity,3/31/2024,6041.65
+01JAQ4GDNRGH91PHDA9CZ4J4BX,839,69a16984427d15e47a855daa9cbde8b833285f87,savings,Account under review for suspicious activity,7/5/2024,3794.89
+01JAQ4GDNRTAPCG3WRFTT788XF,840,95159465fd36087e5b4a9f2e8b95de627b676228,credit,Account exceeded transaction limit,10/10/2024,6267.19
+01JAQ4GDNSMR1QX21ETFBMHTHC,841,17cf41e9d9c5d5f868687978925ebe1b9d41e11c,investment,Account exceeded transaction limit,7/8/2024,114.87
+01JAQ4GDNTHKB6M1HE7A00AWZ3,842,13d60d3464e6f9cd737ab2544089588e38da802d,credit,Account under review for suspicious activity,7/26/2024,6028.01
+01JAQ4GDNTTPMRAC99CA8E52PC,843,0a90ed2f015179d76ecf516c99e626fe53a84189,credit,Account temporarily restricted due to security concerns,9/4/2024,2494.59
+01JAQ4GDNV6T40XWSB8C1ZGEJ3,844,d0da4306604029a029523ea566a5e049bed8a2da,savings,Account exceeded transaction limit,4/18/2024,8448.05
+01JAQ4GDNVS1WA286Z5FVTWH8Z,845,4a66c662b13c86b19abf97b1308488a4a2c848fc,investment,Account temporarily restricted due to security concerns,5/30/2024,8670.28
+01JAQ4GDNWXSJB1ZV4E9QQSQFN,846,505029f6661510702f7a2e5ff919247534390688,investment,Account exceeded transaction limit,1/1/2024,6217.42
+01JAQ4GDNX18YCZ35M33B18ADR,847,86eee04fe6357123fb0e5ebb1fb90f8daff84d69,savings,Account exceeded transaction limit,10/23/2023,5172.42
+01JAQ4GDNX7AEZPJVKCY142205,848,80cb3c2ecf45178696f86c4e1a6d54d5a9acce46,savings,Account temporarily restricted due to security concerns,6/21/2024,4764.7
+01JAQ4GDNYM5B1273P3KR5Z39B,849,0461fdb5437e88f7fde014c97d5a81fd036f8e06,savings,Account exceeded transaction limit,4/18/2024,4517.5
+01JAQ4GDNYA325V6KZNMDVG38Z,850,92a2f2c0376fc6e5972aba9f025377f06a172596,credit,Account under review for suspicious activity,5/14/2024,2016.78
+01JAQ4GDNZQC3XNQDSSMT233SJ,851,1469111a50f7b835c0d4457fb181e5e42dc1bc6f,investment,Account exceeded transaction limit,9/24/2024,4347.29
+01JAQ4GDP034WG7ZJV2HMQKJ4Q,852,3ac806e7e3a6c44f8575ca8a3465f19c7bf984db,checking,Account exceeded transaction limit,10/27/2023,93.87
+01JAQ4GDP0XBRX6ZW318CF3FA1,853,8826725ebfef8e7de27f740ebbaa15b44dc13256,checking,Account temporarily restricted due to security concerns,2/12/2024,2545.68
+01JAQ4GDP1S9DXDSW2YR38QR5V,854,c74e6dd9cbd3d2952b327622aeea8dc0688e2e28,credit,Account temporarily restricted due to security concerns,2/3/2024,9958.56
+01JAQ4GDP1S7YDATDEZ5088J04,855,315ea5366bbcf7333e23a1a444630c2536227622,checking,Account under review for suspicious activity,6/17/2024,9596.1
+01JAQ4GDP28HM2GNDEK8ESYSWC,856,1339f5a248cb9498daa9388d9dd214a321d3407d,investment,Account temporarily restricted due to security concerns,5/26/2024,7227.11
+01JAQ4GDP3ESV637EP2RB43PP4,857,6dd2e0d181756e484e548ff2f67a46000ccd87c7,savings,Account under review for suspicious activity,11/16/2023,2552.7
+01JAQ4GDP3CS5V5G92KSVVEMR9,858,2c74bf58dc5a187890e574f0ebef37d94dea1087,credit,Account under review for suspicious activity,6/22/2024,3678.95
+01JAQ4GDP4QTNX2TW2ZVEENZ60,859,8da64486427e7ee04eb5682d39f78332cce42ae7,investment,Account temporarily restricted due to security concerns,8/20/2024,8556.68
+01JAQ4GDP40C90CSJ7MCNAC1P1,860,c8163b7bccc5c2b921e0bb8aa096b7e3c8631bfc,checking,Account exceeded transaction limit,6/5/2024,666.34
+01JAQ4GDP5E1QWAHXGG0FF6D3W,861,c03491264dd7910a63b0b14025634988817ed523,checking,Account exceeded transaction limit,3/24/2024,7082.09
+01JAQ4GDP67WWZAKS9QPRT6AC4,862,d3b813e74ab2722ecd2919fbb791eba2357c716c,checking,Account temporarily restricted due to security concerns,3/7/2024,7899.49
+01JAQ4GDP6V6N66ST5M15V8T9M,863,ec75397bf45255e8183d464c295f2a708ba6ae94,investment,Account under review for suspicious activity,12/28/2023,288.37
+01JAQ4GDP7KM7HFZN0HA873C6A,864,1c052c902ed0b88fecd9423c12edcb5d9a563aa1,credit,Account under review for suspicious activity,8/2/2024,151.08
+01JAQ4GDP80YE0FF5EG9FQPAF7,865,07ab89e66e93c8306d63785cc036661b152b11c4,checking,Account temporarily restricted due to security concerns,4/13/2024,5824.16
+01JAQ4GDP87ZS4AK8CEJQHXTWA,866,e24aedd0e38a668b434845b48ecffc3c183a383c,investment,Account temporarily restricted due to security concerns,1/9/2024,9312.63
+01JAQ4GDP9FVDD7H7KEMKNY01G,867,4a83d965b53903b78e3ed9d30eeb9f5669ede43e,checking,Account exceeded transaction limit,5/15/2024,625.17
+01JAQ4GDPAXNTE4HRCDZ811V2C,868,5447df07eaccb970777e26dda77ce0e576365089,checking,Account exceeded transaction limit,10/20/2024,8047.61
+01JAQ4GDPA955ZNYQ4RNS8AC75,869,bf97c2347569e5b76dbbda8c8899aa11842e1034,savings,Account under review for suspicious activity,3/21/2024,9708.46
+01JAQ4GDPKJZQAKXZ20PSMVQK3,870,92ba0cc5435806a3144d2071bd6d1be75ddc0bdb,checking,Account under review for suspicious activity,4/21/2024,3979.31
+01JAQ4GDPN1JPV8V7D31N3MGR3,871,456220c04edb927f30600937aaa6c793c1b756cf,savings,Account exceeded transaction limit,7/8/2024,1471.02
+01JAQ4GDPPHVAGJ7D5Z3MCKQGR,872,6d40822d35c8f35482bfc01247feed19a823432e,savings,Account under review for suspicious activity,10/27/2023,4224.25
+01JAQ4GDPQ4S35D83E8MTTCJFD,873,fabba22cb39ab4c7b71bf536dbde95da4361d752,savings,Account temporarily restricted due to security concerns,11/4/2023,9749.27
+01JAQ4GDPRPC2Q9ABFH1KCHAAA,874,a3b9be11809c4edba89e6e09d0744550bc9d9162,credit,Account under review for suspicious activity,11/1/2023,3105.16
+01JAQ4GDPTZM0799B54MVDCGXC,875,7ebbe488f645c9673a90c891f788d190ec1f2f9d,credit,Account under review for suspicious activity,12/27/2023,8176.61
+01JAQ4GDPT1869JM40D50Y1GS9,876,c060b3aabe9c398b712616129aa4a91b6bcaa76d,credit,Account exceeded transaction limit,6/28/2024,6904.32
+01JAQ4GDPVR5SNMKZW0W68JVFK,877,fa0cf6b05b710d1b9c000dcdb0d7674334f68b1c,savings,Account temporarily restricted due to security concerns,10/6/2024,1869.66
+01JAQ4GDPW1NXZVSN3XHK22AKX,878,f622ebd241cd768b8da11e0afc74545fdc22ee22,investment,Account under review for suspicious activity,3/1/2024,7146.58
+01JAQ4GDPXGYBME9TPMPNY9KQ5,879,f3cd249f6c465ef98dc8b9c8174302376ad4d549,savings,Account exceeded transaction limit,7/8/2024,5157.64
+01JAQ4GDPXJMK4ECSG94TN23N1,880,8e310b223ecc8ac743dd1f5a27a99973d86fb83f,investment,Account temporarily restricted due to security concerns,10/30/2023,246.83
+01JAQ4GDPYMM8CWNRD3RGBWWFK,881,de6815ead467195dea2102c888af21c27c6edac0,savings,Account temporarily restricted due to security concerns,10/17/2024,4327.51
+01JAQ4GDPZFQDVSE10H1FJH7P1,882,a5314d9a9c3bebb43bdcea0dd916e9855ac3484d,investment,Account under review for suspicious activity,8/6/2024,5139.49
+01JAQ4GDPZ26B2YX5QQVWR6VHK,883,8767667116af8f34e6a745b443594d29931ad229,checking,Account under review for suspicious activity,11/21/2023,6736.3
+01JAQ4GDQ0WT4G9QPN441W23J2,884,d90f1ce9dd9ab835ad9bfb00351f015c7501fa15,credit,Account temporarily restricted due to security concerns,12/27/2023,6570.12
+01JAQ4GDQ0HWW9H664YNRXK8N7,885,ff89dcaa9142540080256d3895e1dccb2f51be82,savings,Account temporarily restricted due to security concerns,12/27/2023,3144.68
+01JAQ4GDQ13A2W47SPP83F1AQ6,886,0cfee6ceb0df81cc6333f6d264850c74dbad7257,investment,Account under review for suspicious activity,6/27/2024,6324.34
+01JAQ4GDQ2KC60P8CJ131KDTKE,887,a1ba5f6340d01d5a33cc53e2559f223aa9345503,checking,Account temporarily restricted due to security concerns,4/10/2024,885.11
+01JAQ4GDQ2JYZ60KMMPYNVCGDK,888,95343af717eb2ca0537ac5a72f58b899a38d716e,investment,Account under review for suspicious activity,7/29/2024,5848.85
+01JAQ4GDQ3V6MF2A65SRD0Q83P,889,ba91b64fc811441e2d65bf4b2471bc738dca090a,credit,Account temporarily restricted due to security concerns,10/4/2024,3666.85
+01JAQ4GDQ402X1Y6B6F3H0YJPC,890,947189ddc430c5deff0aafffac0eaf7a781170e4,savings,Account under review for suspicious activity,7/10/2024,3199.2
+01JAQ4GDQ4A53XWPYBS5CAFSHM,891,18bb396e30beb22df4e2d3116aa082b9324f95aa,savings,Account under review for suspicious activity,8/20/2024,6332.4
+01JAQ4GDQ5P75X6KKFDA09Y8TB,892,8caa595c9accc2dd5fc2c6f642643804264baae8,credit,Account exceeded transaction limit,2/18/2024,4093.35
+01JAQ4GDQ5MET1DGW5KFVNFBZ6,893,1e3255d8a1e76438dfc2608c49934fad1ed4137a,savings,Account exceeded transaction limit,8/8/2024,6175.58
+01JAQ4GDQ660EYVNTNHMEF4D6Q,894,23fa6b0181478d6d68104d387b2f4cfbf3b4207b,checking,Account under review for suspicious activity,12/10/2023,1303.43
+01JAQ4GDQ63RJ8NG7063EPY6WV,895,7a77cc3b4a96047cc28dc23ebfda0c611afb79cb,credit,Account under review for suspicious activity,7/1/2024,1665.53
+01JAQ4GDQ761CNH9ZXJWBD2JYF,896,f86c61d9bb8f4fd6d505bb83f6b9a353c063f524,savings,Account temporarily restricted due to security concerns,5/28/2024,4798.39
+01JAQ4GDQ8J33F1BYC2HY3G4QM,897,46c335fb9174323989f3de2f3f61f356755586d7,credit,Account exceeded transaction limit,8/10/2024,2025.56
+01JAQ4GDQ8V8BXNS5X9CCBJCMY,898,4985c1720020caed00c2b2cbaabd00b3496d4fc3,checking,Account under review for suspicious activity,7/9/2024,5801.54
+01JAQ4GDQ98SHE2KPVXHZH5DM9,899,1a5588d95b9940428e5b3f174c7100410c5144e7,investment,Account exceeded transaction limit,2/13/2024,6663.25
+01JAQ4GDQ90V096B5PXHND3N8X,900,2b999515d2d6f6449e1ae4f6189d01f682f76a64,checking,Account exceeded transaction limit,7/14/2024,2535.42
+01JAQ4GDQA337W1RKX0JTQJ2CB,901,05c4f9514264751768af5821ea95fe9a3dbe3192,investment,Account temporarily restricted due to security concerns,12/22/2023,381.05
+01JAQ4GDQARK18FAARAFMVRATT,902,bdee6de805ac1afbab8587231049c6a24a23c3c2,savings,Account temporarily restricted due to security concerns,5/17/2024,5058.74
+01JAQ4GDQBX8JQSAVY3TZP0XC6,903,3cd88fb37f76646e4c120427418e9d1ddd050fa4,investment,Account temporarily restricted due to security concerns,1/20/2024,9151.74
+01JAQ4GDQC3HV6YKC3EBEKCNTG,904,75e140bdd4b0ca73eeeeb496ce359bcc47c36ef7,checking,Account exceeded transaction limit,9/12/2024,6801.48
+01JAQ4GDQC90C20Y0797WDJYTH,905,7331cbd3579b28b5dc81be61234ee62bdd247535,credit,Account under review for suspicious activity,5/31/2024,2693.66
+01JAQ4GDQDN4JH7DX5MXFDHSD7,906,02a3d047bd20c74ddd7754aee8586ca5f278d676,checking,Account temporarily restricted due to security concerns,5/22/2024,2568.3
+01JAQ4GDQEGNB28P6595K5NDNG,907,df975e76658b2679fc874d90d6b3a3aa31226390,checking,Account temporarily restricted due to security concerns,3/7/2024,4711.99
+01JAQ4GDQENW83D3BBSCFR3VTD,908,5893b612ee3b6fbf5770022859c49610a1e6e925,investment,Account exceeded transaction limit,8/8/2024,7280.42
+01JAQ4GDQFTKM97NDZZ6E535CJ,909,f002f9c1c8f413e8ebb190c64fd74c41f0a703d8,savings,Account exceeded transaction limit,1/23/2024,3124.36
+01JAQ4GDQF5H76QENH4WNDN8S5,910,399b9e1a280fec4c96777ceedff66b3b48c0875b,checking,Account temporarily restricted due to security concerns,9/16/2024,8265.86
+01JAQ4GDQGWC7SQB8AQK46SCKE,911,ea491d46035784a0a2a40a75b23deba89dc39cd6,investment,Account temporarily restricted due to security concerns,4/24/2024,7794.39
+01JAQ4GDQGXR7E5FWV4AACJAZ0,912,5f29452823d4fa97acc7457c626ef380e5e0c81c,savings,Account under review for suspicious activity,1/2/2024,3613.17
+01JAQ4GDQHF4DNRB7TH4M49394,913,8f7886737959e83ba7d99eefb6f45df88235e6e7,savings,Account temporarily restricted due to security concerns,5/4/2024,6751.25
+01JAQ4GDQJM73RWP1QZJTD6H0E,914,db7ad044c98293f1dcf5d0f0d9f54aa6a96cf01f,credit,Account exceeded transaction limit,7/6/2024,1140.75
+01JAQ4GDQKH7VBTVKGR87HA7ZW,915,22bc736a97b9a655f49dadfa9f4993a9716cf199,investment,Account exceeded transaction limit,8/19/2024,9101.9
+01JAQ4GDQMZCFDWA89D70HCD1N,916,5e4bc5302d01666f70c7fc301159285adf9b39e5,investment,Account temporarily restricted due to security concerns,6/11/2024,8245.6
+01JAQ4GDQNATRQ1W0P6EFG20G6,917,5c61c29a431cf3fe0092ec447a8eab9858ec451e,investment,Account under review for suspicious activity,8/22/2024,7255.56
+01JAQ4GDQNE66Q9JQDV8ZS5CBE,918,84b103cad069e5123cf5aa8ac671946372768c9e,checking,Account temporarily restricted due to security concerns,3/14/2024,1157.32
+01JAQ4GDQQJFN6PJX7TEMW6YY1,919,129133b0cd74b59de3d137614c8471c7ca3c5cac,checking,Account temporarily restricted due to security concerns,11/27/2023,450.88
+01JAQ4GDQR10K46QCH36V7216G,920,9ad2d574e2b74e0d90adee1483b75d1797a5184c,credit,Account temporarily restricted due to security concerns,6/12/2024,5166.14
+01JAQ4GDQRXQG245RNQFQCP7N7,921,466d27504f6101f826b6d4ec21f34009886d9d51,savings,Account under review for suspicious activity,9/17/2024,4356.34
+01JAQ4GDQS4NGWXPRANBNZ4JT5,922,3ade60e03f075ece2e37ffcf7b50be745f50843e,credit,Account under review for suspicious activity,8/24/2024,2685.71
+01JAQ4GDQTF7ZEFX0TNPBHV9MD,923,9dc1d58837021b57f0253bdf0bd08cf4002c383a,investment,Account temporarily restricted due to security concerns,10/11/2024,9198.12
+01JAQ4GDQT7N73ZEBX6DZ853R7,924,037dc2412447620de175e38b6c24b5df2dd62029,investment,Account exceeded transaction limit,2/17/2024,7800.29
+01JAQ4GDQWSNGF7ER7D8KGM8BN,925,4b53cc8d3b695e883527076acc23e7595b4a19af,investment,Account under review for suspicious activity,3/14/2024,1518.89
+01JAQ4GDQXQMYTRZ94AWQVQXMP,926,4ff04978019a1010f62e2c4ce202a4d06d77d950,credit,Account temporarily restricted due to security concerns,5/1/2024,441.22
+01JAQ4GDQXEC3A5NEDE8C4AHRS,927,426d40878f5b06acecdc5322bea079b7d4449024,credit,Account exceeded transaction limit,10/3/2024,2950.34
+01JAQ4GDQYR8KRZYV138CN81F3,928,f0d2ae356f04e9c7a86100fda15af026050f14b8,savings,Account under review for suspicious activity,11/13/2023,8938.56
+01JAQ4GDQZHBWJEZNRAG9W2TS6,929,08b6dcc0e1af1bd6a81e6ad9edf5c3a63e1cebdb,savings,Account under review for suspicious activity,7/28/2024,4455.63
+01JAQ4GDQZH6V0YV43KDW3N4RC,930,41ec1e87e53487e430f02119d44547378b39927a,savings,Account temporarily restricted due to security concerns,7/22/2024,3539.09
+01JAQ4GDR0RH9CKGQGPY39Y2FX,931,84121bf8aa214c09256b5bb197d3710edf6ac384,checking,Account temporarily restricted due to security concerns,12/12/2023,6463.25
+01JAQ4GDR1160Z0GNWT7Q8VBJB,932,ec828e9fc3f84a0def341ea3b4a668488303bbb4,investment,Account temporarily restricted due to security concerns,12/16/2023,1916.76
+01JAQ4GDR272N271MST6TGBXJS,933,e7c1b69931689e991fa1187045b9562fa8fc24dc,investment,Account under review for suspicious activity,8/1/2024,6727.83
+01JAQ4GDR2744018W07BQKYM0J,934,6c19cf1cff5f95d0edd085b4e0e0966046117d48,checking,Account under review for suspicious activity,4/6/2024,4694.61
+01JAQ4GDR3EY11DK7X2XES2KBE,935,f5a0d886f697010af2aefa4137ea39d957541622,investment,Account temporarily restricted due to security concerns,7/22/2024,4882.29
+01JAQ4GDR44HTDEAX0JPWY08D5,936,9d12ff55a2519346dde1961fa6965361cf890e0c,savings,Account exceeded transaction limit,9/5/2024,4870.51
+01JAQ4GDR4K6NQZ6VVWZFWYW73,937,f7b7590c02291c9f6add74e310345715efd7e87e,credit,Account temporarily restricted due to security concerns,3/31/2024,5243.04
+01JAQ4GDR5YCHBP51J2J99HZ3M,938,6f025a632ef0e0d9634532206cd81f8f79710177,credit,Account temporarily restricted due to security concerns,12/1/2023,5948.51
+01JAQ4GDR60438BPYTKGHR582V,939,8998551486ee00272c15dc81a83716e7ccbcc640,checking,Account exceeded transaction limit,1/26/2024,8219.94
+01JAQ4GDR66N2FSFV1D0Y1P9WA,940,da29dca2eeabc356f06dcf331f10a955ce545684,credit,Account exceeded transaction limit,7/15/2024,2280.85
+01JAQ4GDR7AZWPSHPC10ES03N2,941,8c555c05fc21ae4a88355b0a67406c45c1228ea9,savings,Account temporarily restricted due to security concerns,10/18/2024,8155.1
+01JAQ4GDR8H18YGPAFWVRZC20S,942,d99e86ca29963503bf38351b4e5e3f3dffd7e537,credit,Account temporarily restricted due to security concerns,7/22/2024,5537.81
+01JAQ4GDR917ETWGRVBCYAF81F,943,59f6c8890a1cb3b05ab269e99307e792a56c0421,investment,Account temporarily restricted due to security concerns,8/30/2024,7192.12
+01JAQ4GDRANV7DCW8CCV7NKPAW,944,66bf92f323f5c319940a1e7c0ac6728a33beca39,checking,Account exceeded transaction limit,4/20/2024,4842.72
+01JAQ4GDRB8GWQWCEHTM3VAA7X,945,a4eb707891132b8d1466d36da7d21beea9519e13,checking,Account under review for suspicious activity,1/9/2024,1747.9
+01JAQ4GDRBG4MPSPZ5PT52421N,946,4574a2ad06f1d2e4bd86bd1f054f1f6636a20090,credit,Account under review for suspicious activity,9/4/2024,7666.17
+01JAQ4GDRCJCB5GYSQWKN272R2,947,ff9cc38807ae208b44341790188346a594e598a8,checking,Account under review for suspicious activity,3/12/2024,9263.47
+01JAQ4GDRD1VGV465S2NMADWQ4,948,2e20c84c7eb296a7b6d39f03630b58f30596eb8d,credit,Account under review for suspicious activity,1/31/2024,2394.46
+01JAQ4GDRD72CZ90XCJH7GT2C8,949,1816bf26e442796216c7c05d20439002a747e9e5,credit,Account exceeded transaction limit,4/16/2024,5674.03
+01JAQ4GDRET7NH3V8T5RS1H8QK,950,4dd7c25e9ad314a157956414875b777f9b0c8dc5,checking,Account exceeded transaction limit,8/2/2024,5836.44
+01JAQ4GDRF70CACRD263CP1981,951,265f545d8ac7fcb18d25a4398086abeaff20827e,checking,Account under review for suspicious activity,12/5/2023,7745.49
+01JAQ4GDRFFSRSEEESTSX7MRXR,952,3213c4f874ee86680ec8a9714503451d105e863d,checking,Account exceeded transaction limit,9/30/2024,8117.15
+01JAQ4GDRGQPMF1Q48QA0WH77T,953,6c722b20473b704acd9345856fdbaabb6b9d8bde,checking,Account under review for suspicious activity,2/14/2024,849.15
+01JAQ4GDRHF5TH3W9A2395K8QZ,954,0793f8081b06c045610f592e071015d1fe19362e,investment,Account temporarily restricted due to security concerns,4/30/2024,1085.34
+01JAQ4GDRJFC2JTFH9RJ9JRA48,955,b55d76aaaa33a3f8bc0315461c0e2d98f984cd8e,investment,Account under review for suspicious activity,1/16/2024,2993.75
+01JAQ4GDRJ2X13Q1HKAF22PSX6,956,bf70509497d9dabc505880569adf41265262924c,checking,Account temporarily restricted due to security concerns,3/4/2024,8472.21
+01JAQ4GDRKQCJHJJCDX9YKETAY,957,bcfcfc65ae7bba88371e7247b0aad3f5c2dae753,checking,Account exceeded transaction limit,12/29/2023,7609.02
+01JAQ4GDRMBYXQS37XZDFCKH4W,958,1e0ee699888625ff4d6a0114c36d2964d993f426,investment,Account temporarily restricted due to security concerns,10/26/2023,2269.2
+01JAQ4GDRMZ7DSZHYN6BPSCDHX,959,e34c2878ebc929547d69f4dcdde7742e314e5e33,credit,Account exceeded transaction limit,11/21/2023,9561.85
+01JAQ4GDRN1297D8395AD8A4KZ,960,8b9bd339399c109c8ac6807a4333db35399645ae,checking,Account temporarily restricted due to security concerns,2/14/2024,3697.97
+01JAQ4GDRP04RFRAT8YY9EB5KW,961,56c9c7721f27321e46dbfc736c00750a1ffcdb3b,investment,Account exceeded transaction limit,6/19/2024,4541.26
+01JAQ4GDRP44HSKZA4AFDT0NZP,962,2939a7c71be5034a4432c25d70d242b2616bd374,savings,Account under review for suspicious activity,3/18/2024,7077.05
+01JAQ4GDRQV43SJ4XZRNPQ1XEW,963,4ab5898ccd3bb637477900f534a664435fa39a1b,checking,Account exceeded transaction limit,3/5/2024,9426.97
+01JAQ4GDRRC4KBM5BE1F0DNC9J,964,7972044f18df7af4151b5aecd6d39848282b0f7f,credit,Account exceeded transaction limit,12/24/2023,6888.48
+01JAQ4GDRRP3S5ATMKNMMQPX7B,965,115c8930af97ee315ba275d9751088db9b30d823,investment,Account temporarily restricted due to security concerns,1/17/2024,8963.79
+01JAQ4GDRS6RJX9C7S1ZYK06YB,966,dfbcbef41f596153f94547af72c11d4a66f0ed57,credit,Account under review for suspicious activity,11/16/2023,1788.7
+01JAQ4GDRT98ME1GGWJNT99571,967,c6f58579101e24eb11476d8eb0a53b13b1bebcca,investment,Account under review for suspicious activity,1/1/2024,1938.27
+01JAQ4GDRVVNR5JGCJT4A1Q79S,968,7dbfe6c988b874bae36cbea3de2b156e1b9baa86,checking,Account temporarily restricted due to security concerns,7/1/2024,5449.9
+01JAQ4GDRVVA1797QVREA25NN5,969,a5626ef368b4b3f3b5969987daccb4e91a61bf66,investment,Account temporarily restricted due to security concerns,12/19/2023,3849.66
+01JAQ4GDRWV70J84NW0E58NWDR,970,fbf42d1e496afcfa2770655f17b19926a889c875,credit,Account temporarily restricted due to security concerns,1/21/2024,5727.96
+01JAQ4GDRX5YESMA73A2DDJD4Q,971,e50543e4009072aa65b96ae16fce502d063a19ba,investment,Account temporarily restricted due to security concerns,5/2/2024,9595.05
+01JAQ4GDRXV3MQWGC3G7C6KR6Y,972,4412b79e76256e6c6bf7dba27836b032d6220e99,savings,Account under review for suspicious activity,10/23/2023,7720.25
+01JAQ4GDRYZRWFRQJVYCW6CSTP,973,f177787f32b2c7051441049be37a22fbf31fab99,investment,Account exceeded transaction limit,5/21/2024,6064.3
+01JAQ4GDRZ3NP3Q3D22YF0YP1G,974,8145597ccee430d2a3432390c84c4ec64a75a29f,checking,Account exceeded transaction limit,2/12/2024,7041.19
+01JAQ4GDRZXZS4SZ7H4MT0GG3T,975,3c5f8d0495b22ecaab331ced0e7e2df721c01b36,investment,Account under review for suspicious activity,2/2/2024,3119.38
+01JAQ4GDS0TVZZVQNAJEXY7HFR,976,58aedc8ffc69485d7f0f16230dc53f9163a673e9,checking,Account exceeded transaction limit,7/19/2024,2915.16
+01JAQ4GDS1KQ5M313JRPAMYD0R,977,92f5db5d9d56f7e241ba18ceb23c9c7bcca83353,savings,Account temporarily restricted due to security concerns,1/19/2024,2408.61
+01JAQ4GDS2JHBRMMVB3J1DKJ5M,978,fa7bb6630fd4f7551b3f0860da0658f04e4c237d,checking,Account under review for suspicious activity,9/4/2024,8243.7
+01JAQ4GDS2HGA0X6WG2S7DN19A,979,dc68a964fb65190bff48fb3c5f5bc05c4d69dd79,savings,Account exceeded transaction limit,1/18/2024,576.66
+01JAQ4GDS3JB4SC1R85TFXF2PF,980,235e87e94e1105a3e3cc96fcf71bddc838e77198,checking,Account exceeded transaction limit,3/16/2024,15.14
+01JAQ4GDS4BR517G3D77F4P16F,981,07dda30c033349b81806f74a0d70e7d6fbff80f5,savings,Account temporarily restricted due to security concerns,7/26/2024,3226.8
+01JAQ4GDS4KY03SB2P86QM2B7F,982,beea68412667c0c8239551dd8561af9527b50253,savings,Account exceeded transaction limit,4/19/2024,1183.8
+01JAQ4GDS5N21AVYNGFF42HV0N,983,f5eebd3bc5bac105728770f8d7ae10f932683d48,checking,Account exceeded transaction limit,5/7/2024,4999.25
+01JAQ4GDS6H42YCAC09BHPARPB,984,75f0de0de2f1e2e1866ceb201a6170697ba0b3e5,checking,Account under review for suspicious activity,4/24/2024,3304.5
+01JAQ4GDS6GP0D1AK2NCHVMHFZ,985,7a328e62daa94dadc0b92462476499e9a3d4d309,investment,Account exceeded transaction limit,3/7/2024,2713.58
+01JAQ4GDS78P5PCK1PXVA3G31D,986,6c255cce6c516e3a64b4a790135bd8ca21f705a9,investment,Account temporarily restricted due to security concerns,8/6/2024,932.87
+01JAQ4GDS8PBQY7Z01SGGA31A1,987,cc6242fd8e54fb799be434ce2f7f1889a843bc70,credit,Account temporarily restricted due to security concerns,4/10/2024,9958.39
+01JAQ4GDS9X76HF72J8CVW3WH0,988,0b565a931de3e90085fce85d1e641c48bc0eb270,checking,Account exceeded transaction limit,9/9/2024,2461.82
+01JAQ4GDSA7TPPB6YHJMCDB3K4,989,76036d46ea1194e522833cc6b8ba2e9e5f7eee56,savings,Account temporarily restricted due to security concerns,6/29/2024,5067.36
+01JAQ4GDSBJQYFQCNPVSZ4X1V5,990,9a578157b4137f77a3714303173e009accd82102,credit,Account under review for suspicious activity,7/14/2024,3252.64
+01JAQ4GDSB4T9W07NWS2A2EQGF,991,bba70ba769c959a5fc5be9caf9af56989b506892,investment,Account exceeded transaction limit,12/12/2023,732.3
+01JAQ4GDSCWVGMTCT5WHA9MQ3Z,992,524051b4bbc46d78e105cde8b6804e9b5911e307,checking,Account exceeded transaction limit,11/25/2023,7786.08
+01JAQ4GDSCHQYEV35TAM3F34WH,993,6a4368af5af110eb8fb915aff6afde8c3150c016,investment,Account temporarily restricted due to security concerns,6/8/2024,951.78
+01JAQ4GDSDJ0YS9AS6V5HB3T6V,994,bdf4f323e511cefecea46bbe17b224664ca81810,credit,Account exceeded transaction limit,3/14/2024,8220.02
+01JAQ4GDSEE78JDMHE1CF91R22,995,51e334163668b8a602f8de5c6595982804d409b9,checking,Account temporarily restricted due to security concerns,8/19/2024,2926.88
+01JAQ4GDSE7CPF4FA1J1AHZEGD,996,1bc37dab1f99f78441ec33b7253182f19fa66f21,credit,Account under review for suspicious activity,4/29/2024,771.3
+01JAQ4GDSF0Z94PSYSZRA2R250,997,224a7ada4a06798dc3d2b9cf597305a0f848b527,investment,Account exceeded transaction limit,6/3/2024,8319.89
+01JAQ4GDSGDFMRYDXXZTMB0PDQ,998,f160a235c27bf0cb5251a87f358efc752eca2ef5,checking,Account temporarily restricted due to security concerns,1/8/2024,3760.39
+01JAQ4GDSH9Q948ZCAR6W7F4HD,999,15339a9c4511024f23946a92db1e094cea207c1e,savings,Account exceeded transaction limit,10/26/2023,7453.95
+01JAQ4GDSJNF88RZ221YN89R7T,1000,d6c3a24de55337e680e861b7cff2d5b2f62eb9c6,checking,Account under review for suspicious activity,4/25/2024,4896.89
